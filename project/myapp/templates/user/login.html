@@ -1,0 +1,70 @@
+{% extends "layouts/basestart.html" %}
+
+{% block page_title %}{% endblock %}
+
+{% block content %}
+    {% for i in lst %}
+        <h1>{{ i }}</h1>
+    {% endfor %}
+<!-- Matter -->
+
+	    <div class="matter">
+        <div class="container">
+
+          <div class="row">
+
+            <div class="col-md-12">
+
+              <div class="widget wred">
+                <div class="widget-head">
+                  <div class="pull-left">ورود</div>
+                  <div class="widget-icons pull-right">
+                    <a href="#" class="wminimize"><i class="icon-chevron-up"></i></a>
+                    <a href="#" class="wclose"><i class="icon-remove"></i></a>
+                  </div>
+                  <div class="clearfix"></div>
+                </div>
+
+                <div class="widget-content">
+                  <div class="padd">
+
+                    <!-- Profile form -->
+
+                                    <div class="form profile" >
+        <form action="/user/userdashboard/" method="post">
+            {% csrf_token %}
+
+
+                    <div class="form-group">
+                <label for="mellicode">کد ملی</label>
+                <input type="text" class="form-control" value="{{ Malek.mellicode }}" id="mellicode" name="mellicode" placeholder="کد ملی">
+            </div>
+                    <div class="form-group">
+                <label for="pass1">پسورد</label>
+                <input type="text" class="form-control" value="{{ Malek.pass1 }}" id="pass1" name="pass1" placeholder="پسورد">
+
+        </div>
+            {%for msg in Msg %}
+                <p>پیغام ها:</p>
+            <p style="background-color:red "> {{msg}} </p>
+            {% endfor %}
+            <button type="submit" value="login"class="btn btn-success">ورود</button>
+
+
+
+
+        </form>
+                                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+		  </div>
+
+{% endblock content %}

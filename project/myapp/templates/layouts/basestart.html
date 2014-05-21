@@ -1,0 +1,225 @@
+﻿{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<html lang="fa" dir="rtl">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+
+  <!-- Title and other stuffs -->
+  <title>داشبورد</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="author" content="">
+
+
+  <!-- Stylesheets -->
+  <link href="{%  static 'style/bootstrap.css' %}" rel="stylesheet">
+  <!-- Font awesome icon -->
+  <link rel="stylesheet" href="{%  static 'style/font-awesome.css' %}">
+  <!-- jQuery UI -->
+  <link rel="stylesheet" href="{%  static 'style/jquery-ui.css' %}">
+  <!-- Calendar -->
+  <link rel="stylesheet" href="{%  static 'style/fullcalendar.css' %}">
+  <!-- prettyPhoto -->
+  <link rel="stylesheet" href="{%  static 'style/prettyphoto.css' %}">
+  <!-- Star rating -->
+  <link rel="stylesheet" href="{%  static 'style/rateit.css' %}">
+  <!-- Date picker -->
+  <link rel="stylesheet" href="{%  static 'style/bootstrap-datetimepicker.min.css' %}">
+  <!-- jQuery Gritter -->
+  <link rel="stylesheet" href="{%  static 'style/jquery.gritter.css"' %}">
+  <!-- CLEditor -->
+  <link rel="stylesheet" href="{%  static 'style/jquery.cleditor.css' %}">
+  <!-- Bootstrap toggle -->
+  <link rel="stylesheet" href="{%  static 'style/bootstrap-switch.css' %}">
+  <!-- Main stylesheet -->
+  <link href="{%  static 'style/style.css" rel="stylesheet' %}">
+  <!-- Widgets stylesheet -->
+  <link href="{%  static 'style/widgets.css" rel="stylesheet' %}">
+
+
+  <!-- HTML5 Support for IE -->
+  <!--[if lt IE 9]>
+  <script src="{%  static 'js/html5shim.js' %}"></script>
+  <![endif]-->
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="{%  static 'img/favicon/favicon.png' %}">
+</head>
+
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
+
+    <div class="containerk">
+      <!-- Menu button for smallar screens -->
+		<div class="navbar-header">
+		  <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		  </button>
+		  ظظ
+		</div>
+      <!-- Site name for smallar screens -->
+
+
+      <!-- Navigation starts -->
+      <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+
+
+
+        <!-- Links -->
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+              <img src="{%  static 'img/user.jpg' %}" alt="" class="nav-user-pic img-responsive" />ورود  <b class="caret"></b>
+            </a>
+
+            <!-- Dropdown menu -->
+            <ul class="dropdown-menu">
+              <li><a href="/login/"><i class="icon-user"></i> ادمین</a></li>
+              <li><a href="/login/"><i class="icon-user"></i> کاربر عادی</a></li>
+
+            </ul>
+          </li>
+
+
+		</nav>
+      </div>
+
+    </div>
+
+
+
+
+<!-- Main content starts -->
+
+<div class="content"  >
+
+  	<!-- Sidebar -->
+    <div class="sidebar" style="float:right;">
+        <div class="sidebar-dropdown" style="text-align:right"><a href="#">گزینه ها</a></div>
+
+        <div class="sidebar-inner" >
+
+
+
+     
+
+          <!--- Sidebar navigation -->
+          <!-- If the main navigation has sub navigation, then add the class "has_submenu" to "li" of main navigation. -->
+                <ul class="navi">
+
+            <!-- Use the class nred, ngreen, nblue, nlightblue, nviolet or norange to add background color. You need to use this in <li> tag. -->
+              <li class="ngreen"><a><i class="icon-briefcase"></i> جلسات کارکنان</a></li>
+
+              <li class="ngreen"><a href="{% url 'myapp.views.galery' %}"><i class="icon-picture"></i> گالری تصاویر</a></li>
+              <li class="ngreen"><a href="{% url 'myapp.views.price' %}"><i class=" icon-bar-chart"></i> اخبار</a></li>
+
+
+             <li class="ngreen"><a href="{% url 'myapp.views.contactus' %}"><i class="icon-heart"></i> ارتباط با ما</a></li>
+           <li class="ngreen"><a href="{% url 'myapp.views.aboutus' %}"><i class="icon-user"></i>درباره ما  </a></li>
+             <li class="ngreen"><a href="{% url 'myapp.views.help' %}"><i class="icon-question-sign"></i> راهنما</a></li>
+
+          </ul>
+
+
+
+          <!-- Date -->
+
+          <div class="sidebar-widget">
+            <div id="todaydate"></div>
+          </div>
+
+
+
+        </div>
+
+    </div>
+
+    <!-- Sidebar ends -->
+
+
+  	<!-- Main bar -->
+  	<div class="mainbar " style="margin-right:250px;margin-left:0px" >
+
+	    <!-- Page heading -->
+	    <div class="page-head" >
+        <!-- Page heading -->
+	        <h2 class="pull-left"> سیستم مدیریت شیفت کاری بیمارستان
+			  <!-- page meta -->
+			  <span class="page-meta"></span>
+			</h2>
+
+
+			<!-- Breadcrumb -->
+			<div class="bread-crumb pull-right">
+			  <a href="index.html"><i class="icon-home"></i> خانه</a>
+			
+			</div>
+
+			<div class="clearfix"></div>
+
+	    </div>
+	    <!-- Page heading ends -->
+<div class="container">
+
+      <h1>{% block page_title  %}Example Base Template{% endblock page_title %}</h1>
+
+      {% block content %}
+        <p>Use this document as a way to quick start any new project.</p>
+      {% endblock content %}
+
+    </div> <!-- /container -->
+
+    </div>
+
+
+
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="{% static 'js/bootstrap.min.js'  %}"></script>
+
+    <!-- place project specific Javascript in this file -->
+    <script src="{%static 'js/project.js' %}"></script>
+
+    {%  block js %}{% endblock js %}
+<span class="totop"><a href="#"><i class="icon-chevron-up"></i></a></span>
+
+<!-- JS -->
+<script src="{%  static 'js/jquery.js' %}"></script> <!-- jQuery -->
+<script src="{%  static 'js/bootstrap.js' %}"></script> <!-- Bootstrap -->
+<script src="{%  static 'js/jquery-ui-1.10.2.custom.min.js' %}"></script> <!-- jQuery UI -->
+<script src="{%  static 'js/fullcalendar.min.js' %}"></script> <!-- Full Google Calendar - Calendar -->
+<script src="{%  static 'js/jquery.rateit.min.js' %}"></script> <!-- RateIt - Star rating -->
+<script src="{%  static 'js/jquery.prettyphoto.js' %}"></script> <!-- prettyPhoto -->
+
+<!-- jQuery Flot -->
+<script src="{%  static 'js/excanvas.min.js' %}"></script>
+<script src="{%  static 'js/jquery.flot.js' %}"></script>
+<script src="{%  static 'js/jquery.flot.resize.js' %}"></script>
+<script src="{%  static 'js/jquery.flot.pie.js' %}"></script>
+<script src="{%  static 'js/jquery.flot.stack.js' %}"></script>
+
+<script src="{%  static 'js/jquery.gritter.min.js' %}"></script> <!-- jQuery Gritter -->
+<script src="{%  static 'js/sparklines.js' %}"></script> <!-- Sparklines -->
+<script src="{%  static 'js/jquery.cleditor.min.js' %}"></script> <!-- CLEditor -->
+<script src="{%  static 'js/bootstrap-datetimepicker.min.js' %}"></script> <!-- Date picker -->
+<script src="{%  static 'js/bootstrap-switch.min.js' %}"></script> <!-- Bootstrap Toggle -->
+<script src="{%  static 'js/filter.js' %}"></script> <!-- Filter for support page -->
+<script src="{%  static 'js/custom.js' %}"></script> <!-- Custom codes -->
+<script src="{%  static 'js/charts.js' %}"></script> <!-- Custom chart codes -->
+
+<!-- Script for this page -->
+
+
+  </body>
+</html>

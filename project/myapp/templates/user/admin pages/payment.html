@@ -1,0 +1,115 @@
+{% extends "layouts/baseadmin.html" %}
+
+
+
+{% block page_title %}{% endblock %}
+
+{% block content %}
+
+
+  <p>Welcome, {{username}}. Thanks for logging in.</p>
+
+  <p>Welcome, new user. Please log in.</p>
+
+
+	    <div class="matter">
+        <div class="container">
+
+          <div class="row">
+
+            <div class="col-md-12">
+
+              <div class="widget wred">
+                <div class="widget-head">
+                  <div class="pull-left"></div>
+                  <div class="widget-icons pull-right">
+                    <a href="#" class="wminimize"><i class="icon-chevron-up"></i></a>
+                    <a href="#" class="wclose"><i class="icon-remove"></i></a>
+                  </div>
+                  <div class="clearfix"></div>
+                </div>
+
+                <div class="widget-content">
+                  <div class="padd">
+
+                    <!-- Profile form -->
+
+                                    <div class="form profile" >
+
+
+            <table class="table table-bordered table-striped ">
+
+                <tbody class="">
+                <tr>
+
+
+
+                    <th>
+مبلغ
+                    </th>
+
+
+                    <th>
+شماره ثبت
+                    </th>
+                <th>
+سرفصل هزینه
+                    </th>
+<th>
+تاریخ ایجاد هزینه
+                    </th>
+<th>
+مهلت پرداخت
+                    </th>
+<th>
+واحد خاص
+                    </th>
+
+
+
+
+                    <th>
+پلاک
+                    </th>
+                    <th>
+وضعیت پرداخت
+                    </th>
+                <th>other</th>
+                <th>other</th>
+
+                    {% for s in p %}
+                        <tr>
+
+                            <td>{{ s.costn }}</td>
+                            <td>{{ s.regnum }}</td>
+                            <td>{{ s.costfor }}</td>
+                            <td>{{ s.startdate }}</td>
+                            <td>{{ s.enddate }}</td>
+                            <td>{{ s.special }}</td>
+                            <td>{{ s.pelak }}</td>
+                            <td>{{ s.payed }}</td>
+
+                            <td> <a href= "{% url 'myapp.views.paycost' s.regnum %}" class="btn">  پرداخت آنلاین</a>  </td>
+                            <td> <a  href= "{% url 'myapp.views.paycost' s.regnum %}"class="btn"> پرداخت نقدی</a>  </td>
+
+
+
+                        </tr>
+                    {% endfor %}
+
+                </tr>
+            </tbody>
+</table>
+                                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+		  </div>
+{% endblock content %}
