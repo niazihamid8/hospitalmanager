@@ -106,9 +106,9 @@ def savepersonnel(request):
 
 def showpersonnel(request):
     if request.session["login"]=="true":
-        personnel=personnel.objects.all()
+        personnel1=personnel.objects.all()
 
-        return render(request,'user/sabte personnel/showpersonnel.html',{'p':personnel})
+        return render(request,'user/sabte personnel/showpersonnel.html',{'p':personnel1})
     else:
         return render(request,'user/login.html')
 
@@ -311,19 +311,19 @@ def userdashboard(request):
                 mellicode=m.mellicode
                 request.session['mellicode'] =m.mellicode
 
-                Cost=shift.objects.filter(payed="no")
-                return render(request,'user/admin dashboard.html',{'username':username ,'mellicode':mellicode,'p':Cost,})
+
+                return render(request,'user/admin dashboard.html',{'username':username ,'mellicode':mellicode})
             elif adm=="user":
                 request.session["login"]="true"
                 m= personnel.objects.get(mellicode=mellicode2 )
                 username=m.fn
                 request.session['mellicode'] =m.mellicode
                 request.session['username'] =m.fn
-                Cost=shift.objects.all()
+
                 mellicode=m.mellicode
                 request.session["login"]="true"
 
-                return render(request,'user/user pages/user dashboard.html',{'username':username,'p':Cost,'mellicode':mellicode})
+                return render(request,'user/user pages/user dashboard.html',{'username':username,'mellicode':mellicode})
         else:
             return render(request, 'user/login.html',{'Msg':Msg})
     else:

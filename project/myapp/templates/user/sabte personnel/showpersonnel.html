@@ -34,6 +34,9 @@
                     <th>
 کد ملی
                     </th>
+					                    <th>
+کد پرسونلی
+                    </th>
                     <th>
 پسورد
                     </th>
@@ -46,7 +49,7 @@
                     نام خوانوادگی
                     </th>
 <th>
-پلاک واحد
+سمت
                     </th>
 <th>
 نوع مالکیت
@@ -66,25 +69,29 @@
                        تلفن
                     </th>
 
-                <th>other</th>
+                <th>موبایل</th>
+				<th>other</th>
                 <th>other</th>
 
                     {% for s in p %}
                         <tr>
 
                             <td>{{ s.mellicode }}</td>
+							<td>{{ s.personnelcode }}</td>
                             <td>{{ s.pass }}</td>
                             <td>{{ s.fn }}</td>
                             <td>{{ s.ln }}</td>
-                            <td>{{ s.pelak }}</td>
-                            <td>{{ s.malektype }}</td>
+                            <td>{{ s.semat }}</td>
+                            <td>{{ s.personneltype }}</td>
                             <td>{{ s.startdate }}</td>
                             <td>{{ s.enddate }}</td>
                             <td>{{ s.admin }}</td>
                             <td>{{ s.telephon }}</td>
+							<td>{{ s.mobile }}</td>
+							
 
-                            <td> <a href= "{% url 'myapp.views.deletemalek' s.mellicode %}" class="btn btn-default"> پاک کردن</a>  </td>
-                            <td> <a  href= "{% url 'myapp.views.editmalek' s.mellicode %}"class="btn btn-default"> ویرایش</a>  </td>
+                            <td> <a href= "{% url 'myapp.views.deletepersonnel' s.mellicode %}" class="btn btn-default"> پاک کردن</a>  </td>
+                            <td> <a  href= "{% url 'myapp.views.editpersonnel' s.mellicode %}"class="btn btn-default"> ویرایش</a>  </td>
 
 
 
