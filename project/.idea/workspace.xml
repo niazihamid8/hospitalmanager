@@ -2,833 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac206d9c-3c08-4407-b24a-1382a1f66577" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/parallax/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/parallax/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/parallax/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/parallax/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/5 - Copy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/clients/amazon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/android.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/android.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/arrow-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/arrow-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/parallax/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/ashok.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/back.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/bg_direction_nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_rounded/btnnext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_square/btnnext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/facebook/btnnext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_rounded/btnnext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_square/btnnext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_rounded/btnnext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_square/btnnext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/facebook/btnnext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_rounded/btnnext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_square/btnnext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_rounded/btnprevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_square/btnprevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/facebook/btnprevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_rounded/btnprevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_square/btnprevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_rounded/btnprevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_square/btnprevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/facebook/btnprevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_rounded/btnprevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_square/btnprevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/images/buttons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/images/buttons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_rounded/contentpattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_square/contentpattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_rounded/contentpattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_square/contentpattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/facebook/contentpatternbottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/facebook/contentpatternbottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/facebook/contentpatternleft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/facebook/contentpatternleft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/facebook/contentpatternright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/facebook/contentpatternright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/facebook/contentpatterntop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/facebook/contentpatterntop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/default/default_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/default/default_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/facebook/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/facebook/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/clients/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/favicon/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/favicon/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/firefox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/firefox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/fontawesome-webfont.eotv3.0.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/font/fontawesome-webfont.eotv3.2.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/fontawesome-webfont.eotv3.2.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/fontawesome-webfont.ttfv3.0.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/font/fontawesome-webfont.ttfv3.2.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/fontawesome-webfont.ttfv3.2.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/fontawesome-webfont.woffv3.0.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/font/fontawesome-webfont.woffv3.2.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/fontawesome-webfont.woffv3.2.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/font/fontawesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/fontawesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/girl1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/girl2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/clients/google.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/gritter/gritter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/gritter/gritter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/heading-back.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/gritter/ie-spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/gritter/ie-spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/ie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/ie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/ios.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/ios.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/linux.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/linux.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/default/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/facebook/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/default/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/facebook/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/mac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/mac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/metro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/metro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/opera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/opera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/s1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/s1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/s10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/s10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/s2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/s2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/s3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/s3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/s4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/s4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/s5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/s5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/s6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/s6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/s7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/s7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/s8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/s8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/s9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/s9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/safari.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/safari.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/shots.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/clients/skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/default/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/facebook/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/default/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/facebook/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/default/sprite_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/default/sprite_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/default/sprite_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/default/sprite_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/default/sprite_x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/default/sprite_x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/default/sprite_y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/default/sprite_y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/star.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/star.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/t1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/t1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/t10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/t10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/t2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/t2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/t3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/t3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/t4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/t4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/t5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/t5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/t6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/t6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/t7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/t7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/t8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/t8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/t9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/t9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/tn1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/tn2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/tn3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/tn4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/tn5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/tn6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/tn7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/tn8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/tn9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/tn_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/tn_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/tn_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/tn_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/tn_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/tn_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/tn_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/tn_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/tn_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/images/toolbar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/images/toolbar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/clients/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-bg_diagonals-thick_18_b81900_5f40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-bg_diagonals-thick_18_b81900_5f40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-bg_diagonals-thick_20_666666_5f40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-bg_diagonals-thick_20_666666_5f40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-bg_flat_10_000000_5f40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-bg_flat_10_000000_5f40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-bg_glass_100_f6f6f6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-bg_glass_100_f6f6f6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-bg_glass_100_fdf5ce_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-bg_glass_100_fdf5ce_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-icons_222222_5f256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-icons_222222_5f256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-icons_228ef1_5f256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-icons_228ef1_5f256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-icons_ef8c08_5f256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-icons_ef8c08_5f256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-icons_ffd27a_5f256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-icons_ffd27a_5f256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/ui-icons_ffffff_5f256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/ui-icons_ffffff_5f256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/user-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/user-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/user.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/user.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/windows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/windows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/clients/youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte cost/All cost.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte malek/All malek.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte vahed/All.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleProject/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/user pages/aboutus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/admin dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/baseadmin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/basestart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/baseuser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/bootstrap-datetimepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/bootstrap-datetimepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/bootstrap-datetimepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/bootstrap-datetimepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/bootstrap-switch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/bootstrap-switch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/bootstrap-switch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/bootstrap-switch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/user pages/contactus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/ddlevelsmenu-base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/ddlevelsmenu-topbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/ddlevelsmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/font/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/fonts/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/fonts/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/fonts/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/fonts/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/fonts/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/favicon/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/gritter/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/gritter/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/gritter/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/gritter/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/gritter/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/icons/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/images/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/photos/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_rounded/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/dark_square/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/default/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/facebook/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_rounded/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/prettyphoto/light_square/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/images/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/application/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/application/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/application/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/application/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/application/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/common/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/common/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/common/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/common/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/common/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/connect/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/connect/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/connect/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/connect/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/connect/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/clients/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/favicon/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/gritter/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/gritter/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/gritter/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/gritter/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/gritter/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/icons/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/images/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/parallax/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/photos/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/portfolio/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_rounded/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/dark_square/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/default/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/facebook/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_rounded/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/prettyphoto/light_square/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yo/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yo/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yo/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yo/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yo/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yo/r/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yo/r/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yo/r/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yo/r/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yy/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yy/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yy/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yy/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yy/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yy/r/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yy/r/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yy/r/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yy/r/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/_3a/_3a/_3a/_3a/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/images/default.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/user pages/edit user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/admin pages/find malek.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/admin pages/find vahed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/font/fontawesome-webfont.svg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/fontawesome-webfont.svg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/user pages/galery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/fonts/glyphicons-halflings-regular.eot.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/glyphicons-halflings-regular.eot.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/fonts/glyphicons-halflings-regular.svg.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/glyphicons-halflings-regular.svg.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/fonts/glyphicons-halflings-regular.ttf.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/glyphicons-halflings-regular.ttf.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/fonts/glyphicons-halflings-regular.woff.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/fonts/glyphicons-halflings-regular.woff.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/glyphicons-halflings-white.png.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/glyphicons-halflings.png.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/img/gritter/gritter-light.png.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/img/gritter/gritter-light.png.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yy/r/h_y6u1wrzpw.png.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/user pages/help.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/homepage/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/html5shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/html5shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/jquery-ui-1.10.2.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery-ui-1.10.2.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/jquery.cleditor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/jquery.cleditor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/jquery.cleditor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery.cleditor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery.cslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/jquery.flot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery.flot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/jquery.flot.pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery.flot.pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/jquery.flot.resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery.flot.resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/jquery.flot.stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery.flot.stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/jquery.gritter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/jquery.gritter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/jquery.gritter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery.gritter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery.isotope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/jquery.prettyphoto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery.prettyphoto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/jquery.rateit.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/jquery.rateit.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1005 435l352 352q19 19 19 45t-19 45l-352 352q-30 31 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1005 435l352 352q19 19 19 45t-19 45l-352 352q-30 31 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1020 399v-367q0 -14 -9 -23t-23 -9h-956q-14 0 -23 9t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1020 399v-367q0 -14 -9 -23t-23 -9h-956q-14 0 -23 9t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1024 1084l316 -316l-572 -572l-316 316zm813 105l618 6~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1024 1084l316 -316l-572 -572l-316 316zm813 105l618 6~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1024 160v160q0 14 -9 23t-23 9h-96v512q0 14 -9 23t-23~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1024 160v160q0 14 -9 23t-23 9h-96v512q0 14 -9 23t-23~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1024 160v64q0 14 -9 23t-23 9h-96v480q0 14 -9 23t-23 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1024 36q-42 241 -140 498h-2l-2 -1q-16 -6 -43 -16.5t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1024 36q-42 241 -140 498h-2l-2 -1q-16 -6 -43 -16.5t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1024 640q0 -106 -75 -181t-181 -75t-181 75t-75 181t75~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1024 640q0 -106 -75 -181t-181 -75t-181 75t-75 181t75~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1024 640q0 106 -75 181t-181 75t-181 -75t-75 -181t75 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1024 640q0 106 -75 181t-181 75t-181 -75t-75 -181t75 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1024 640q0 106 -75 181t-181 75t-181 -75t-75 -181t75 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1024 832v-416q0 -40 -28 -68t-68 -28t-68 28t-28 68v35~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1024 832v-416q0 -40 -28 -68t-68 -28t-68 28t-28 68v35~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1088 608v-64q0 -13 -9.5 -22.5t-22.5 -9.5h-384q-13 0 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1088 640q0 -33 -27 -52l-448 -320q-31 -23 -66 -5q-35 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1088 640q0 -33 -27 -52l-448 -320q-31 -23 -66 -5q-35 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1097 457l-146 -146q-10 -10 -23 -10t-23 10l-137 137l-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1097 457l-146 -146q-10 -10 -23 -10t-23 10l-137 137l-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1118 660q-8 -20 -30 -20h-192v-352q0 -14 -9 -23t-23 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1118 660q-8 -20 -30 -20h-192v-352q0 -14 -9 -23t-23 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1120 1280h-832q-66 0 -113 -47t-47 -113v-832q0 -66 47~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1120 1280h-832q-66 0 -113 -47t-47 -113v-832q0 -66 47~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1120 1280h-832q-66 0 -113 -47t-47 -113v-832q0 -66 47~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1120 608q0 -12 -10 -24l-319 -319q-11 -9 -23 -9t-23 9~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1120 608q0 -12 -10 -24l-319 -319q-11 -9 -23 -9t-23 9~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1120 608q0 -12 -10 -24l-319 -319q-9 -9 -23 -9t-23 9l~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1120 672q0 -13 -9.5 -22.5t-22.5 -9.5h-192v-352q0 -13~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1123 127v181q-88 -56 -174 -56q-51 0 -88 23q-29 17 -3~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1123 127v181q-88 -56 -174 -56q-51 0 -88 23q-29 17 -3~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1125 448q0 -27 -18 -45l-102 -102q-18 -18 -45 -18t-45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1134 307q8 -25 -4 -48.5t-37 -31.5t-49 4t-32 38q-25 8~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1134 307q8 -25 -4 -48.5t-37 -31.5t-49 4t-32 38q-25 8~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1134 461q-37 -121 -138 -195t-228 -74t-228 74t-138 19~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1134 461q-37 -121 -138 -195t-228 -74t-228 74t-138 19~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1145 419q-17 -35 -57 -35h-640q-40 0 -57 35q-18 35 5 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1145 419q-17 -35 -57 -35h-640q-40 0 -57 35q-18 35 5 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1145 861q18 -35 -5 -66l-320 -448q-19 -27 -52 -27t-52~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1145 861q18 -35 -5 -66l-320 -448q-19 -27 -52 -27t-52~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1149 414q0 26 -19 45l-181 181l181 181q19 19 19 45q0 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1149 414q0 26 -19 45l-181 181l181 181q19 19 19 45q0 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1149 414q0 26 -19 45l-181 181l181 181q19 19 19 45q0 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1152 448q0 -26 -19 -45t-45 -19h-640q-26 0 -45 19t-19~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1152 448q0 -26 -19 -45t-45 -19h-640q-26 0 -45 19t-19~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1152 640q0 -37 -33 -56l-512 -288q-14 -8 -31 -8t-32 9~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1152 736v-64q0 -14 -9 -23t-23 -9h-832q-14 0 -23 9t-9~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1152 736v-64q0 -14 -9 -23t-23 -9h-832q-14 0 -23 9t-9~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1165 397l102 102q19 19 19 45t-19 45l-454 454q-19 19 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1165 397l102 102q19 19 19 45t-19 45l-454 454q-19 19 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1171 723l-422 -422q-19 -19 -45 -19t-45 19l-294 294q-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1171 723l-422 -422q-19 -19 -45 -19t-45 19l-294 294q-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1184 640q0 -26 -19 -45l-544 -544q-19 -19 -45 -19t-45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1184 640q0 -26 -19 -45l-544 -544q-19 -19 -45 -19t-45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1184 640q0 -26 -19 -45l-544 -544q-19 -19 -45 -19t-45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1184 640q0 -37 -32 -55l-544 -320q-15 -9 -32 -9q-16 0~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1184 640q0 -37 -32 -55l-544 -320q-15 -9 -32 -9q-16 0~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1186 579l257 250l-356 52l-66 10l-30 60l-159 322v-963~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1186 579l257 250l-356 52l-66 10l-30 60l-159 322v-963~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1189 768q0 -27 -18 -45l-320 -320l-102 -102q-18 -18 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1193 993q11 7 25 22v-1q0 -2 -9.5 -10t-11.5 -12q-1 1 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1216 576v128q0 26 -19 45t-45 19h-256v256q0 26 -19 45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1216 576v128q0 26 -19 45t-45 19h-256v256q0 26 -19 45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1216 576v128q0 26 -19 45t-45 19h-256v256q0 26 -19 45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1216 576v128q0 26 -19 45t-45 19h-768q-26 0 -45 -19t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1216 576v128q0 26 -19 45t-45 19h-768q-26 0 -45 -19t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1216 576v128q0 26 -19 45t-45 19h-768q-26 0 -45 -19t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1280 192v896q0 26 -19 45t-45 19h-128q-26 0 -45 -19t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1280 192v896q0 26 -19 45t-45 19h-128q-26 0 -45 -19t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1280 192v896q0 26 -19 45t-45 19h-128q-26 0 -45 -19t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1280 343q0 11 -2 16q-3 8 -38.5 29.5t-88.5 49.5l-53 2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1280 343q0 11 -2 16q-3 8 -38.5 29.5t-88.5 49.5l-53 2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1280 343q0 11 -2 16q-3 8 -38.5 29.5t-88.5 49.5l-53 2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1280 480q0 -40 -28 -68t-68 -28q-51 0 -80 43l-227 341~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1280 480q0 -40 -28 -68t-68 -28q-51 0 -80 43l-227 341~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1280 576v128q0 26 -19 45t-45 19h-320v320q0 26 -19 45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1280 576v128q0 26 -19 45t-45 19h-320v320q0 26 -19 45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1280 576v128q0 26 -19 45t-45 19h-320v320q0 26 -19 45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1280 576v128q0 26 -19 45t-45 19h-502l189 189q19 19 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1280 576v128q0 26 -19 45t-45 19h-502l189 189q19 19 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1280 576v128q0 26 -19 45t-45 19h-502l189 189q19 19 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1280 576v128q0 26 -19 45t-45 19h-896q-26 0 -45 -19t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1280 576v128q0 26 -19 45t-45 19h-896q-26 0 -45 -19t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1280 608q0 14 -9 23t-23 9h-224v352q0 13 -9.5 22.5t-2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1280 608q0 14 -9 23t-23 9h-224v352q0 13 -9.5 22.5t-2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1280 608q0 14 -9 23t-23 9h-224v352q0 13 -9.5 22.5t-2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1280 608v480q0 26 -19 45t-45 19h-480q-42 0 -59 -39q-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1280 608v480q0 26 -19 45t-45 19h-480q-42 0 -59 -39q-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1280 640q0 104 -40.5 198.5t-109.5 163.5t-163.5 109.5~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1280 640q0 139 -71 260l-701 -701q121 -71 260 -71q104~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1280 672q0 14 -9 23l-352 352q-9 9 -23 9t-23 -9l-351 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1280 672q0 14 -9 23l-352 352q-9 9 -23 9t-23 -9l-351 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1280 672q0 14 -9 23l-352 352q-9 9 -23 9t-23 -9l-351 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1280 926q-56 -25 -121 -34q68 40 93 117q-65 -38 -134 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1280 926q-56 -25 -121 -34q68 40 93 117q-65 -38 -134 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1280 958q0 13 -9.5 22.5t-22.5 9.5q-5 0 -15 -4q20 34 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1284 639q0 27 -18 45l-91 91q-18 18 -45 18t-45 -18l-1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1284 639q0 27 -18 45l-91 91q-18 18 -45 18t-45 -18l-1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1284 639q0 27 -18 45l-91 91q-18 18 -45 18t-45 -18l-1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1284 641q0 27 -18 45l-362 362l-91 91q-18 18 -45 18t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1284 641q0 27 -18 45l-362 362l-91 91q-18 18 -45 18t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1284 641q0 27 -18 45l-362 362l-91 91q-18 18 -45 18t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1284 802q0 28 -18 46l-91 90q-19 19 -45 19t-45 -19l-4~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1284 802q0 28 -18 46l-91 90q-19 19 -45 19t-45 -19l-4~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1284 802q0 28 -18 46l-91 90q-19 19 -45 19t-45 -19l-4~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1285 640q0 27 -18 45l-91 91l-362 362q-18 18 -45 18t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1285 640q0 27 -18 45l-91 91l-362 362q-18 18 -45 18t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1285 640q0 27 -18 45l-91 91l-362 362q-18 18 -45 18t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1307 618l23 219h-198v109q0 49 15.5 68.5t71.5 19.5h11~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1307 618l23 219h-198v109q0 49 15.5 68.5t71.5 19.5h11~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1312 643q0 161 -87 295l-754 -753q137 -89 297 -89q111~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1312 643q0 161 -87 295l-754 -753q137 -89 297 -89q111~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1346 1247q0 63 -44 116t-103 53q-52 0 -83 -37t-31 -94~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1346 1247q0 63 -44 116t-103 53q-52 0 -83 -37t-31 -94~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1376 128h32v640h-32q-35 0 -67 11.5t-64 38.5t-48 44t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1376 128h32v640h-32q-35 0 -67.5 12t-62.5 37t-50 46t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1376 128h32v640h-32q-35 0 -67.5 12t-62.5 37t-50 46t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1397 1324q0 -87 -149 -236l-240 -240l143 -746l1 -6q0 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1401 1187l-640 -1280q-17 -35 -57 -35q-5 0 -15 2q-22 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1401 1187l-640 -1280q-17 -35 -57 -35q-5 0 -15 2q-22 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1407 710q0 44 -7 113.5t-18 96.5q-12 30 -17 44t-9 36.~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1407 710q0 44 -7 113.5t-18 96.5q-12 30 -17 44t-9 36.~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1407 710q0 44 -7 113.5t-18 96.5q-12 30 -17 44t-9 36.~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1408 131q0 -120 -73 -189.5t-194 -69.5h-874q-121 0 -1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1408 131q0 -120 -73 -189.5t-194 -69.5h-874q-121 0 -1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1408 131q0 -120 -73 -189.5t-194 -69.5h-874q-121 0 -1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1408 544v-480q0 -26 -19 -45t-45 -19h-384v384h-256v-3~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1408 544v-480q0 -26 -19 -45t-45 -19h-384v384h-256v-3~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1408 544v-480q0 -26 -19 -45t-45 -19h-384v384h-256v-3~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1408 640q0 130 -51 248.5t-136.5 204t-204 136.5t-248.~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1440 1088q0 40 -28 68t-68 28t-68 -28t-28 -68t28 -68t~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1440 1088q0 40 -28 68t-68 28t-68 -28t-28 -68t28 -68t~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1536 1120v-960q0 -119 -84.5 -203.5t-203.5 -84.5h-960~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1536 1120v-960q0 -119 -84.5 -203.5t-203.5 -84.5h-960~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1536 1120v-960q0 -119 -84.5 -203.5t-203.5 -84.5h-960~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1536 640q0 -209 -103 -385.5t-279.5 -279.5t-385.5 -10~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1536 640q0 -209 -103 -385.5t-279.5 -279.5t-385.5 -10~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1536 640q0 -209 -103 -385.5t-279.5 -279.5t-385.5 -10~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1536 640q0 -209 -103 -385.5t-279.5 -279.5t-385.5 -1~2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1536 640q0 -209 -103 -385.5t-279.5 -279.5t-385.5 -1~2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1536 640q0 -209 -103 -385.5t-279.5 -279.5t-385.5 -1~2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1536 640q0 -251 -146.5 -451.5t-378.5 -277.5q-27 -5 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1536 640q0 -251 -146.5 -451.5t-378.5 -277.5q-27 -5 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1536 640v-128q0 -53 -32.5 -90.5t-84.5 -37.5h-704l293~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1536 640v-128q0 -53 -32.5 -90.5t-84.5 -37.5h-704l293~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1536 640v-128q0 -53 -32.5 -90.5t-84.5 -37.5h-704l293~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1632 576q0 -26 -19 -45t-45 -19h-224q0 -171 -67 -290l~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1632 576q0 -26 -19 -45t-45 -19h-224q0 -171 -67 -290l~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1639 1058q40 -57 18 -129l-275 -906q-19 -64 -76.5 -10~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1639 1058q40 -57 18 -129l-275 -906q-19 -64 -76.5 -10~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1639 1058q40 -57 18 -129l-275 -906q-19 -64 -76.5 -10~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1664 896q0 80 -56 136t-136 56h-64v-384h64q80 0 136 5~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1664 896q0 80 -56 136t-136 56h-64v-384h64q80 0 136 5~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1664 896q0 80 -56 136t-136 56h-64v-384h64q80 0 136 5~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1664 960v-256q0 -26 -19 -45t-45 -19h-64q-26 0 -45 19~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1664 960v-256q0 -26 -19 -45t-45 -19h-64q-26 0 -45 19~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1699 1350q0 -35 -43 -78l-632 -632v-768h320q26 0 45 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1699 1350q0 -35 -43 -78l-632 -632v-768h320q26 0 45 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1699 1350q0 -35 -43 -78l-632 -632v-768h320q26 0 45 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1792 640q0 -174 -120 -321.5t-326 -233t-450 -85.5q-70~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1792 640q0 -174 -120 -321.5t-326 -233t-450 -85.5q-70~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1792 640q0 -174 -120 -321.5t-326 -233t-450 -85.5q-70~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1875 1202q0 -10 -5 -18q-64 -104 -179 -190v-33q4 -227~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1917 1016q23 -64 -150 -294q-24 -32 -65 -85q-78 -100 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1917 1016q23 -64 -150 -294q-24 -32 -65 -85q-78 -100 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m1920 384q0 -159 -112.5 -271.5t-271.5 -112.5h-1088q-1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m1920 384q0 -159 -112.5 -271.5t-271.5 -112.5h-1088q-1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m1920 384q0 -159 -112.5 -271.5t-271.5 -112.5h-1088q-1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m237 122h231v694h-231v-694zm483 1030q-1 52 -36 86t-93~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m237 122h231v694h-231v-694zm483 1030q-1 52 -36 86t-93~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m256 224v-192q0 -13 -9.5 -22.5t-22.5 -9.5h-192q-13 0 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m256 224v-192q0 -13 -9.5 -22.5t-22.5 -9.5h-192q-13 0 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m256 224v-192q0 -13 -9.5 -22.5t-22.5 -9.5h-192q-13 0 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m349 911v-991h-330v991h330zm370 1217q1 -73 -50.5 -122~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m349 911v-991h-330v991h330zm370 1217q1 -73 -50.5 -122~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m352 704q0 -14 -9 -23l-288 -288q-9 -9 -23 -9q-13 0 -2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m352 704q0 -14 -9 -23l-288 -288q-9 -9 -23 -9q-13 0 -2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m352 704q0 -14 -9 -23l-288 -288q-9 -9 -23 -9q-13 0 -2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m381 -84q0 -80 -54.5 -126t-135.5 -46q-106 0 -172 66l5~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m381 -84q0 -80 -54.5 -126t-135.5 -46q-106 0 -172 66l5~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m381 -84q0 -80 -54.5 -126t-135.5 -46q-106 0 -172 66l5~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m384 0h896v256h-896v-256zm384 640h896v384h-160q-40 0 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m384 0h896v256h-896v-256zm384 640h896v384h-160q-40 0 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m384 0h896v256h-896v-256zm384 640h896v384h-160q-40 0 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m384 128q0 -80 -56 -136t-136 -56t-136 56t-56 136t56 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m384 128q0 -80 -56 -136t-136 -56t-136 56t-56 136t56 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m384 128q0 -80 -56 -136t-136 -56t-136 56t-56 136t56 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m384 192q0 -26 -19 -45t-45 -19t-45 19t-19 45t19 45t45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m384 192q0 -26 -19 -45t-45 -19t-45 19t-19 45t19 45t45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m384 192q0 -26 -19 -45t-45 -19t-45 19t-19 45t19 45t45~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m384 192q0 -80 -56 -136t-136 -56t-136 56t-56 136t56 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m384 192q0 -80 -56 -136t-136 -56t-136 56t-56 136t56 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m384 192q0 -80 -56 -136t-136 -56t-136 56t-56 136t56 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m384 368v-96q0 -16 -16 -16h-96q-16 0 -16 16v96q0 16 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m384 368v-96q0 -16 -16 -16h-96q-16 0 -16 16v96q0 16 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m384 992v-576q0 -13 -9.5 -22.5t-22.5 -9.5q-14 0 -23 9~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m384 992v-576q0 -13 -9.5 -22.5t-22.5 -9.5q-14 0 -23 9~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m384 992v-576q0 -13 -9.5 -22.5t-22.5 -9.5q-14 0 -23 9~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m394 184q-8 -9 -20 3q-13 11 -4 19q8 9 20 -3q12 -11 4 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m394 184q-8 -9 -20 3q-13 11 -4 19q8 9 20 -3q12 -11 4 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m404 428l152 -152l-52 -52h-56v96h-96v56zm818 818q14 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m404 428l152 -152l-52 -52h-56v96h-96v56zm818 818q14 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m480 672v448q0 14 -9 23t-23 9t-23 -9t-9 -23v-448q0 -1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m480 672v448q0 14 -9 23t-23 9t-23 -9t-9 -23v-448q0 -1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m480 672v448q0 14 -9 23t-23 9t-23 -9t-9 -23v-448q0 -1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m493 1053q16 0 27.5 11.5t11.5 27.5t-11.5 27.5t-27.5 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m493 1053q16 0 27.5 11.5t11.5 27.5t-11.5 27.5t-27.5 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m496 192q0 -60 -42.5 -102t-101.5 -42q-60 0 -102 42t-4~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m496 192q0 -60 -42.5 -102t-101.5 -42q-60 0 -102 42t-4~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m496 192q0 -60 -42.5 -102t-101.5 -42q-60 0 -102 42t-4~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m512 160v640q0 13 -9.5 22.5t-22.5 9.5h-192q-13 0 -22.~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m512 256q0 53 -37.5 90.5t-90.5 37.5t-90.5 -37.5t-37.5~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m512 256q0 53 -37.5 90.5t-90.5 37.5t-90.5 -37.5t-37.5~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m582 228q0 -66 -93 -66q-107 0 -107 63q0 64 98 64q102 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m603 0h-172q-13 0 -22.5 9t-9.5 23v330h-288q-13 0 -22.~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m603 0h-172q-13 0 -22.5 9t-9.5 23v330h-288q-13 0 -22.~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m640 448l256 128l-256 128v-256zm1024 1039v-542l-512 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m640 448l256 128l-256 128v-256zm1024 1039v-542l-512 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m663 1125q-11 -1 -15.5 -10.5t-8.5 -9.5q-5 -1 -5 5q0 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m663 1125q-11 -1 -15.5 -10.5t-8.5 -9.5q-5 -1 -5 5q0 1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m675 252q21 34 11 69t-45 50q-34 14 -73 1t-60 -46q-22 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m675 252q21 34 11 69t-45 50q-34 14 -73 1t-60 -46q-22 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m685 237l614 614q19 19 19 45t-19 45l-102 102q-19 19 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m685 237l614 614q19 19 19 45t-19 45l-102 102q-19 19 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m685 771q0 1 -126 222q-21 34 -52 34h-184q-18 0 -26 -1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m685 771q0 1 -126 222q-21 34 -52 34h-184q-18 0 -26 -1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m704 1152q-153 0 -286 -52t-211.5 -141t-78.5 -191q0 -8~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m704 1152q-153 0 -286 -52t-211.5 -141t-78.5 -191q0 -8~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m704 1152q-153 0 -286 -52t-211.5 -141t-78.5 -191q0 -8~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m704 160q0 6 -15 57t-35 115.5t-20 65.5q32 16 51 47t19~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m704 280v-240q0 -16 -12 -28t-28 -12h-240q-16 0 -28 12~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m704 280v-240q0 -16 -12 -28t-28 -12h-240q-16 0 -28 12~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m717 141l454 454q19 19 19 45t-19 45l-454 454q-19 19 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m717 141l454 454q19 19 19 45t-19 45l-454 454q-19 19 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m736 960q0 -13 -9.5 -22.5t-22.5 -9.5t-22.5 9.5t-9.5 2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m736 960q0 -13 -9.5 -22.5t-22.5 -9.5t-22.5 9.5t-9.5 2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m736 960q0 -13 -9.5 -22.5t-22.5 -9.5t-22.5 9.5t-9.5 2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m742 -37l-652 651q-37 37 -37 90.5t37 90.5l652 651q37 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m742 -37l-652 651q-37 37 -37 90.5t37 90.5l652 651q37 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m742 -37l-652 651q-37 37 -37 90.5t37 90.5l652 651q37 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m768 1184q-148 0 -273 -73t-198 -198t-73 -273t73 -273t~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m768 1184q-148 0 -273 -73t-198 -198t-73 -273t73 -273t~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m768 1184v-1088q0 -26 -19 -45t-45 -19t-45 19l-333 333~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m768 1184v-1088q0 -26 -19 -45t-45 -19t-45 19l-333 333~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m768 1184v-1088q0 -26 -19 -45t-45 -19t-45 19l-333 333~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m768 1408q209 0 385.5 -103t279.5 -279.5t103 -385.5t-1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m768 1408q209 0 385.5 -103t279.5 -279.5t103 -385.5t-1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m768 1408q209 0 385.5 -103t279.5 -279.5t103 -385.5t-1~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m768 1408q209 0 385.5 -103t279.5 -279.5t103 -385.5t-~2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m768 914l201 -306h-402zm1133 384h94l-459 691l-459 -69~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m768 914l201 -306h-402zm1133 384h94l-459 691l-459 -69~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m768 96v1088q-148 0 -273 -73t-198 -198t-73 -273t73 -2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m768 96v1088q-148 0 -273 -73t-198 -198t-73 -273t73 -2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m773 234l350 473q16 22 24.5 59t-6 85t-61.5 79q-40 26 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m773 234l350 473q16 22 24.5 59t-6 85t-61.5 79q-40 26 ~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m813 237l454 454q19 19 19 45t-19 45l-102 102q-19 19 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m813 237l454 454q19 19 19 45t-19 45l-102 102q-19 19 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m848 -160q0 16 -16 16q-59 0 -101.5 42.5t-42.5 101.5q0~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m848 -160q0 16 -16 16q-59 0 -101.5 42.5t-42.5 101.5q0~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m848 -160q0 16 -16 16q-59 0 -101.5 42.5t-42.5 101.5q0~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m848 -160q0 16 -16 16q-59 0 -101.5 42.5t-42.5 101.5q~2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m848 -160q0 16 -16 16q-59 0 -101.5 42.5t-42.5 101.5q~2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m848 -160q0 16 -16 16q-59 0 -101.5 42.5t-42.5 101.5q~2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m848 666q0 43 -41 66t-77 1q-43 -20 -42.5 -72.5t43.5 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m848 666q0 43 -41 66t-77 1q-43 -20 -42.5 -72.5t43.5 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m896 1152q-204 0 -381.5 -69.5t-282 -187.5t-104.5 -255~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m896 1152q-204 0 -381.5 -69.5t-282 -187.5t-104.5 -255~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m896 1152q-204 0 -381.5 -69.5t-282 -187.5t-104.5 -255~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m896 128l336 384h-768l-336 -384h768zm1909 1205q15 -34~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m896 128l336 384h-768l-336 -384h768zm1909 1205q15 -34~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m896 160v192q0 13 -9.5 22.5t-22.5 9.5h-192q-13 0 -22.~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m896 160v192q0 14 -9 23t-23 9h-192q-14 0 -23 -9t-9 -2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m896 160v192q0 14 -9 23t-23 9h-192q-14 0 -23 -9t-9 -2~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m896 608v-64q0 -14 -9 -23t-23 -9h-224v-224q0 -14 -9 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m896 608v-64q0 -14 -9 -23t-23 -9h-224v-224q0 -14 -9 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m896 992v-448q0 -14 -9 -23t-23 -9h-320q-14 0 -23 9t-9~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m896 992v-448q0 -14 -9 -23t-23 -9h-320q-14 0 -23 9t-9~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m909 141l102 102q19 19 19 45t-19 45l-307 307l307 307q~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m909 141l102 102q19 19 19 45t-19 45l-307 307l307 307q~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m919 233v157q0 50 -29 50q-17 0 -33 -16v-224q16 -16 33~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m919 233v157q0 50 -29 50q-17 0 -33 -16v-224q16 -16 33~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m928 180v716h-320v-716q0 -25 18.5 -38.5t45.5 -13.5h19~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m928 704q0 14 -9 23t-23 9q-66 0 -113 -47t-47 -113q0 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m928 704q0 14 -9 23t-23 9q-66 0 -113 -47t-47 -113q0 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m928 704q0 14 -9 23t-23 9q-66 0 -113 -47t-47 -113q0 -~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/m960 864q119 0 203.5 -84.5t84.5 -203.5t-84.5 -203.5t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/font/m960 864q119 0 203.5 -84.5t84.5 -203.5t-84.5 -203.5t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/m960 864q119 0 203.5 -84.5t84.5 -203.5t-84.5 -203.5t-~1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/modernizr.custom.28468.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/admin pages/payment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/prettyphoto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/prettyphoto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/user pages/price.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/css/project.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/project.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/rateit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/rateit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/regist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte cost/sabtecost.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte malek/sabtemalek.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte vahed/sabtevahed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/save.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte cost/savecost.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte malek/savemalek.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte vahed/savevahed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/common/scribe_endpoint.phpcjssdk_errorm.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleProject/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/admin pages/show finded vahed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/show.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte cost/showcost.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/admin pages/showfind.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte malek/showmalek.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte vahed/showvahed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/js/sparklines.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/js/sparklines.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/start page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/rsrc.php/v2/yo/r/uliqmhjn-sk.gif.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleProject/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/user pages/user dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/application/vnd.unity.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/style/widgets.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/style/widgets.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleProject/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/layouts/New folder/connect/xd_arbiter.phpversion27.htm" />
+      <change type="DELETED" beforePath="C:\hm\hospitalmanager\project\myapp\templates\user\sabte malek\All malek.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\hm\hospitalmanager\project\myapp\templates\user\sabte malek\sabtemalek.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\hm\hospitalmanager\project\myapp\templates\user\sabte malek\savemalek.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\hm\hospitalmanager\project\myapp\templates\user\sabte malek\showmalek.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SampleProject.iml" afterPath="$PROJECT_DIR$/.idea/SampleProject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/templates/layouts/baseadmin.html" afterPath="$PROJECT_DIR$/myapp/templates/layouts/baseadmin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/hospitalmanager.iml" afterPath="$PROJECT_DIR$/../.idea/hospitalmanager.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/misc.xml" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/models.py" afterPath="$PROJECT_DIR$/myapp/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SampleProject/urls.py" afterPath="$PROJECT_DIR$/SampleProject/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/views.py" afterPath="$PROJECT_DIR$/myapp/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SampleProject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/basestart.html" changelist="ac206d9c-3c08-4407-b24a-1382a1f66577" time="1400671273535" ignored="false" />
-    <file path="/Dummy.txt" changelist="ac206d9c-3c08-4407-b24a-1382a1f66577" time="1400700425028" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -848,10 +39,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SampleProject/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="21" selection-start="1927" selection-end="1927" vertical-scroll-proportion="0.119170986">
+            <state line="37" column="92" selection-start="2819" selection-end="2819" vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="1105">
               <folding />
             </state>
           </provider>
@@ -860,16 +51,95 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="326" column="75" selection-start="11907" selection-end="11907" vertical-scroll-proportion="0.0">
+            <state line="78" column="0" selection-start="2919" selection-end="2919" vertical-scroll-proportion="0.0" vertical-offset="818" max-vertical-offset="7344">
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="0" selection-start="1071" selection-end="1071" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1139">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user dashboard.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/templates/user/user pages/user dashboard.html">
+      <file leaf-file-name="baseuser.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/templates/layouts/baseuser.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="4454">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="All cost.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte shift/All cost.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sabteshift.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte shift/sabteshift.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saveshift.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte shift/saveshift.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showshift.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte shift/showshift.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1836">
+              <folding>
+                <marker date="1401707333849" expanded="true" signature="117:3718" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="145:3711" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="172:3699" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="209:3683" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="252:3663" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="298:719" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="427:639" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="769:3640" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="812:3613" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="919:3581" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="1005:3546" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="1059:3505" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="1100:2475" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="1145:1240" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="1287:1387" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="1432:1534" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="1579:1687" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="1732:1834" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="1879:1978" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="2027:2122" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="2167:2270" placeholder="..." />
+                <marker date="1401707333849" expanded="true" signature="2479:3368" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baseadmin.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myapp/templates/layouts/baseadmin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="31" selection-start="1770" selection-end="1770" vertical-scroll-proportion="1.5101523" vertical-offset="374" max-vertical-offset="6069">
               <folding />
             </state>
           </provider>
@@ -878,61 +148,7 @@
       <file leaf-file-name="basestart.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/templates/layouts/basestart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="38" selection-start="4903" selection-end="4903" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/templates/user/show.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="price.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/templates/user/user pages/price.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="galery.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/templates/user/user pages/galery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="32" selection-start="2955" selection-end="2955" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin dashboard.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/templates/user/admin dashboard.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="22" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="baseadmin.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/templates/layouts/baseadmin.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="278" column="0" selection-start="9496" selection-end="9496" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="155" column="38" selection-start="4903" selection-end="4903" vertical-scroll-proportion="0.0" vertical-offset="2635" max-vertical-offset="3927">
               <folding />
             </state>
           </provider>
@@ -946,7 +162,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -963,27 +179,27 @@
       <list>
         <option value="$PROJECT_DIR$/myapp/templates/user/login.html" />
         <option value="$PROJECT_DIR$/myapp/templates/user/sabte cost/showcost.html" />
-        <option value="$PROJECT_DIR$/myapp/models.py" />
-        <option value="$PROJECT_DIR$/SampleProject/urls.py" />
         <option value="$PROJECT_DIR$/myapp/templates/user/user pages/edit malek.html" />
         <option value="$PROJECT_DIR$/myapp/templates/user/admin pages/edit user.html" />
         <option value="$PROJECT_DIR$/myapp/templates/layouts/baseuser.html" />
         <option value="$PROJECT_DIR$/myapp/templates/user/user pages/edit user.html" />
         <option value="$PROJECT_DIR$/myapp/templates/user/start page.html" />
         <option value="$PROJECT_DIR$/myapp/templates/user/sabte cost/sabtecost.html" />
-        <option value="$PROJECT_DIR$/myapp/views.py" />
         <option value="$PROJECT_DIR$/myapp/templates/user/user pages/galery.html" />
         <option value="$PROJECT_DIR$/myapp/templates/layouts/basestart.html" />
         <option value="$PROJECT_DIR$/myapp/templates/user/user pages/user dashboard.html" />
         <option value="$PROJECT_DIR$/myapp/templates/user/admin dashboard.html" />
+        <option value="$PROJECT_DIR$/SampleProject/urls.py" />
+        <option value="$PROJECT_DIR$/myapp/models.py" />
         <option value="$PROJECT_DIR$/myapp/templates/layouts/baseadmin.html" />
+        <option value="$PROJECT_DIR$/myapp/views.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="54" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1320" />
     <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1027,7 +243,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hospitalmanager" />
+              <option name="myItemId" value="project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1037,7 +253,83 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hospitalmanager" />
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SampleProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SampleProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SampleProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SampleProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1052,22 +344,19 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="vcs.Git" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <PyConsoleSettings />
-    </option>
-    <option name="myDjangoConsoleState">
-      <PyConsoleSettings />
+      <console-settings />
     </option>
   </component>
   <component name="RecentsManager">
@@ -1091,6 +380,8 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SampleProject" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="TARGET" value="" />
@@ -1107,6 +398,8 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SampleProject" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
@@ -1130,6 +423,8 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SampleProject" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
@@ -1152,31 +447,12 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SampleProject" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <module name="SampleProject" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -1186,6 +462,8 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SampleProject" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
@@ -1200,6 +478,32 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SampleProject" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1207,6 +511,8 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SampleProject" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
@@ -1218,13 +524,6 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1232,6 +531,8 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SampleProject" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
@@ -1259,6 +560,8 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SampleProject" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
@@ -1280,7 +583,7 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -1290,7 +593,6 @@
     <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
     <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
     <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="DETECT_NESTED_COPIES" value="true" />
     <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
@@ -1307,21 +609,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
-    <editor active="true" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2689394" sideWeight="0.6709265" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2684049" sideWeight="0.73846155" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39408866" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32747602" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26198083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26153848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32676518" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1334,53 +636,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
-      <value>
-        <are-packages-shown value="false" />
-        <are-modules-shown value="false" />
-        <flatten-packages value="false" />
-        <is-autoscroll-to-source value="false" />
-      </value>
+      <TodoPanelSettings />
     </option>
-    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
-    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
-    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
-    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
-    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
-    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
-    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
-    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
-    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
-    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
-    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
-    <option name="ACTIVE_VCS_NAME" />
-    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
-    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1391,102 +649,131 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myapp/templates/user/start page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="111" selection-start="1335" selection-end="1335" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/templates/user/user pages/edit user.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte cost/sabtecost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="35" selection-start="2738" selection-end="2738" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte cost/All cost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte cost/showcost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="20" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.0" />
+        <state line="10" column="0" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/templates/user/user pages/price.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/templates/user/show.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="326" column="75" selection-start="11907" selection-end="11907" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/templates/user/user pages/user dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/templates/user/admin dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="22" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
+        <state line="7" column="22" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/templates/user/user pages/galery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="32" selection-start="2955" selection-end="2955" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="43" column="32" selection-start="2955" selection-end="2955" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/templates/layouts/basestart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="38" selection-start="4903" selection-end="4903" vertical-scroll-proportion="0.0">
+        <state line="155" column="38" selection-start="4903" selection-end="4903" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/templates/layouts/baseadmin.html">
+    <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte shift/All cost.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="278" column="0" selection-start="9496" selection-end="9496" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/models.py">
+    <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte shift/sabteshift.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte shift/saveshift.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte shift/showshift.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1836">
+          <folding>
+            <marker date="1401707333849" expanded="true" signature="117:3718" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="145:3711" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="172:3699" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="209:3683" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="252:3663" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="298:719" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="427:639" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="769:3640" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="812:3613" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="919:3581" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="1005:3546" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="1059:3505" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="1100:2475" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="1145:1240" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="1287:1387" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="1432:1534" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="1579:1687" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="1732:1834" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="1879:1978" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="2027:2122" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="2167:2270" placeholder="..." />
+            <marker date="1401707333849" expanded="true" signature="2479:3368" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/templates/layouts/baseuser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="4454">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SampleProject/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="21" selection-start="1927" selection-end="1927" vertical-scroll-proportion="0.119170986">
+        <state line="37" column="92" selection-start="2819" selection-end="2819" vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="0" selection-start="2919" selection-end="2919" vertical-scroll-proportion="0.0" vertical-offset="818" max-vertical-offset="7344">
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="1071" selection-end="1071" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/templates/layouts/baseadmin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="31" selection-start="1770" selection-end="1770" vertical-scroll-proportion="1.5101523" vertical-offset="374" max-vertical-offset="6069">
           <folding />
         </state>
       </provider>

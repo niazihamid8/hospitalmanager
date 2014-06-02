@@ -18,8 +18,8 @@ urlpatterns = patterns('',
                        url(r'^logout/$' ,'myapp.views.logout',name='logout'),
                        ########################################################admin
                        url(r'^adminpayment/$' ,'myapp.views.adminpayment',name='adminpayment'),
-                       url(r'^findmalek/$' ,'myapp.views.findmalek',name='findmalek'),
-                       url(r'^showfindedmalek/$' ,'myapp.views.showfindedmalek',name='showfindedmalek'),
+                       url(r'^findpersonnel/$' ,'myapp.views.findpersonnel',name='findpersonnel'),
+                       url(r'^showfindedpersonnel/$' ,'myapp.views.showfindedpersonnel',name='showfindedpersonnel'),
                        url(r'^findvahed/$' ,'myapp.views.findvahed',name='findvahed'),
                        url(r'^showfindedvahed/$' ,'myapp.views.showfindedvahed',name='showfindedvahed'),
                        ####################################################sabte vahed
@@ -29,13 +29,13 @@ urlpatterns = patterns('',
                        url(r'^deletevahed/([^/]+)/$', 'myapp.views.deletevahed'),
                        url(r'^editvahed/([^/]+)/$', 'myapp.views.editvahed'),
                        url(r'^all/$', 'myapp.views.all',name='all'),
-                       #####################################################sabte malek
-                       url(r'^sabtemalek/$', 'myapp.views.sabtemalek',name='sabtemalek'),
-                       url(r'^savemalek/$', 'myapp.views.savemalek',name='savemalek'),
-                       url(r'^showmalek/$', 'myapp.views.showmalek',name='showmalek'),
-                       url(r'^deletemalek/([^/]+)/$', 'myapp.views.deletemalek'),
-                       url(r'^editmalek/([^/]+)/$', 'myapp.views.editmalek'),
-                       url(r'^allmalek/$', 'myapp.views.allmalek',name='allmalek'),
+                       #####################################################sabte personnel
+                       url(r'^sabtepersonnel/$', 'myapp.views.sabtepersonnel',name='sabtepersonnel'),
+                       url(r'^savepersonnel/$', 'myapp.views.savepersonnel',name='savepersonnel'),
+                       url(r'^showpersonnel/$', 'myapp.views.showpersonnel',name='showpersonnel'),
+                       url(r'^deletepersonnel/([^/]+)/$', 'myapp.views.deletepersonnel'),
+                       url(r'^editpersonnel/([^/]+)/$', 'myapp.views.editpersonnel'),
+                       url(r'^allpersonnel/$', 'myapp.views.allpersonnel',name='allpersonnel'),
                        #####################################################
                        #####################################################sabte shift
                        url(r'^sabteshift/$', 'myapp.views.sabteshift',name='sabteshift'),

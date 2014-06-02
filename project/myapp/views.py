@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from myapp.models import member,vahed,malek,user,userh, shift
+from myapp.models import member,vahed,personnel,user,userh, shift
 from django.template import Template
 from django.http import HttpResponse, HttpResponseRedirect
 
@@ -47,79 +47,80 @@ def startpage(request):
 def login(request):
     request.session['login']="false"
     return render(request, 'user/login.html')
-##########################sabte malek######################
-def sabtemalek(request):
+##########################sabte personnel######################
+def sabtepersonnel(request):
 # if request.session["login"]=="true":
-    return render(request, 'user/sabte malek/sabtemalek.html')
+    return render(request, 'user/sabte personnel/sabtepersonnel.html')
     # else:
     #     return render(request,'user/login.html')
-def savemalek(request):
-    if request.session["login"]=="true":
+def savepersonnel(request):
+    #if request.session["login"]=="true":
         Msg=[]
-        k=request.POST.get('newmalek')
+        k=request.POST.get('newpersonnel')
+        personnelcode = request.POST.get('personnelcode')
         mellicode = request.POST.get('mellicode')
         pass1 = request.POST.get('pass1')
         fn = request.POST.get('fn')
         ln = request.POST.get('ln')
+        mobile = request.POST.get('mobile')
         telephon = request.POST.get('telephon')
-        pelak = request.POST.get('pelak')
+        semat = request.POST.get('semat')
         startdate = request.POST.get('startdate')
         enddate = request.POST.get('enddate')
-        malektype = request.POST.get('malektype')
+        personneltype = request.POST.get('personneltype')
         admin = request.POST.get('admin')
-        x=vahed.objects.filter(pelak=pelak)
-
-        if len(x)!=0:
-            Msg.append("mellicode is wrong")
 
         if k=='T'and len(Msg)==0  :
-            R=malek(mellicode=request.POST.get("mellicode"),pass1=request.POST.get("pass1"),pelak=request.POST.get("pelak"),
+            R=personnel(mellicode=request.POST.get("mellicode"),personnelcode = request.POST.get('personnelcode'),pass1=request.POST.get("pass1"),
+                        semat=request.POST.get("semat"),
                     startdate=request.POST.get("startdate"),
                     enddate=request.POST.get("enddate"),fn=request.POST.get("fn"),
-                    ln=request.POST.get("ln"),
-                    telephon=request.POST.get("telephon"),malektype=request.POST.get("malektype"),admin=request.POST.get("admin"))
+                    ln=request.POST.get("ln"),mobile = request.POST.get('mobile'),
+                    telephon=request.POST.get("telephon"),personneltype=request.POST.get("personneltype")
+                ,admin=request.POST.get("admin"))
             R.save()
-            return render(request,'user/sabte malek/savemalek.html')
+            return render(request,'user/sabte personnel/savepersonnel.html')
         elif k!='T':
-            m= malek.objects.filter(mellicode =request.POST.get('oldmalek'))[0]
+            m= personnel.objects.filter(mellicode =request.POST.get('oldpersonnel'))[0]
             m.mellicode=mellicode
+            m.personnelcode=personnelcode
             m.pass1=pass1
             m.fn=fn
             m.ln=ln
             m.startdate=startdate
             m.enddate=enddate
             m.telephon=telephon
-            m.pelak=pelak
-            m.malektype=malektype
+            m.semat=semat
+            m.personneltype=personneltype
             m.admin=admin
             m.save()
-            return HttpResponseRedirect("/showmalek/")
+            return HttpResponseRedirect("/showpersonnel/")
         else:
-            return render(request,'user/sabte malek/sabtemalek.html',{'Msg':Msg})
-    else:
-        return render(request,'user/login.html')
+            return render(request,'user/sabte personnel/sabtepersonnel.html',{'Msg':Msg})
+   # else:
+            return render(request,'user/login.html')
 
-def showmalek(request):
+def showpersonnel(request):
     if request.session["login"]=="true":
-        Malek=malek.objects.all()
+        personnel=personnel.objects.all()
 
-        return render(request,'user/sabte malek/showmalek.html',{'p':Malek})
+        return render(request,'user/sabte personnel/showpersonnel.html',{'p':personnel})
     else:
         return render(request,'user/login.html')
 
 #######################################
-def deletemalek (request,mellicode):
-    k = malek.objects.filter(mellicode = mellicode)
+def deletepersonnel (request,mellicode):
+    k = personnel.objects.filter(mellicode = mellicode)
     for s in k:
         s.delete()
-    return HttpResponseRedirect("/showmalek/")
-def editmalek(request,mellicode):
+    return HttpResponseRedirect("/showpersonnel/")
+def editpersonnel(request,mellicode):
 
-    m=malek.objects.filter(mellicode=mellicode)
-    return render(request,'user/sabte malek/sabtemalek.html',{'Malek':m[0]})
-def allmalek(request):
+    m=personnel.objects.filter(mellicode=mellicode)
+    return render(request,'user/sabte personnel/sabtepersonnel.html',{'personnel':m[0]})
+def allpersonnel(request):
     if request.session["login"]=="true":
-        return render(request, 'user/sabte malek/all malek.html')
+        return render(request, 'user/sabte personnel/all personnel.html')
     else:
         return render(request,'user/login.html')
         ##################################################sabte vahed#####
@@ -293,15 +294,15 @@ def userdashboard(request):
         Msg=[]
         mellicode2 = request.POST.get('mellicode')
         pass12=request.POST.get('pass1')
-        ser = malek.objects.filter(mellicode=mellicode2,pass1=pass12 )
+        ser = personnel.objects.filter(mellicode=mellicode2,pass1=pass12 )
         if len(ser)== 0:
             Msg.append("user or password is wrong")
         if len(Msg) == 0:
-            m= malek.objects.get(mellicode=mellicode2 )
+            m= personnel.objects.get(mellicode=mellicode2 )
             adm=m.admin
             if adm=="admin":
                 request.session["login"]="true"
-                m= malek.objects.get(mellicode=mellicode2 )
+                m= personnel.objects.get(mellicode=mellicode2 )
                 username=m.fn
                 mellicode=m.mellicode
                 request.session['mellicode'] =m.mellicode
@@ -310,7 +311,7 @@ def userdashboard(request):
                 return render(request,'user/admin dashboard.html',{'username':username ,'mellicode':mellicode,'p':Cost,})
             elif adm=="user":
                 request.session["login"]="true"
-                m= malek.objects.get(mellicode=mellicode2 )
+                m= personnel.objects.get(mellicode=mellicode2 )
                 username=m.fn
                 request.session['mellicode'] =m.mellicode
                 request.session['username'] =m.fn
@@ -323,7 +324,7 @@ def userdashboard(request):
             return render(request, 'user/login.html',{'Msg':Msg})
     else:
         z=request.session['mellicode']
-        m= malek.objects.get(mellicode=z )
+        m= personnel.objects.get(mellicode=z )
         username=m.fn
         mellicode=m.mellicode
         adm=m.admin
@@ -343,8 +344,8 @@ def userdashboard(request):
 #####################################################
 def edituser(request,mellicode):
 
-    m=malek.objects.filter(mellicode=mellicode)
-    return render(request,'user/user pages/edit user.html',{'Malek':m[0]})
+    m=personnel.objects.filter(mellicode=mellicode)
+    return render(request,'user/user pages/edit user.html',{'personnel':m[0]})
 #################################################
 def logout(request):
     request.session["login"]="false"
@@ -385,18 +386,18 @@ def adminpayment(request):
 
         return render(request,'user/login.html')
         ##############################################
-def findmalek(request):
+def findpersonnel(request):
     if request.session["login"]=="true":
-        return render(request,'user/admin pages/find malek.html')
+        return render(request,'user/admin pages/find personnel.html')
     else:
         return render(request,'user/login.html')
         ##############################################
-def showfindedmalek(request):
+def showfindedpersonnel(request):
     if request.session["login"]=="true":
         fn=request.POST.get('fn')
         ln=request.POST.get('ln')
         mc=request.POST.get('mc')
-        m=malek.objects.get(mellicode=mc,fn=fn,ln=ln)
+        m=personnel.objects.get(mellicode=mc,fn=fn,ln=ln)
         mc=m.mellicode
         fn=m.fn
         ln=m.ln
@@ -415,7 +416,7 @@ def findvahed(request):
 def showfindedvahed(request):
     if request.session["login"]=="true":
         pelak=request.POST.get('pelak')
-        m=malek.objects.get(pelak=pelak)
+        m=personnel.objects.get(pelak=pelak)
         pelak=m.pelak
         metraj=m.metraj
         telephon=m.telephon

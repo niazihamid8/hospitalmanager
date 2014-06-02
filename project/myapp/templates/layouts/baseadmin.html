@@ -98,7 +98,7 @@
             <!-- Dropdown menu -->
             <ul class="dropdown-menu">
 
-              <li><a href="{% url 'myapp.views.edituser' mellicode %}"><i class="icon-cogs"></i> تنظیمات</a></li>
+
               <li><a href="{% url 'myapp.views.logout' %}"><i class="icon-off"></i> خروج</a></li>
             </ul>
           </li>
@@ -216,7 +216,7 @@
               <ul style="font-size:medium; margin-right:30px">
 
                 <li><a href="{% url 'myapp.views.all' %}">کارکنان</a></li>
-                <li><a href="{% url 'myapp.views.allmalek' %}">مدیران</a></li>
+                <li><a href="{% url 'myapp.views.allpersonnel' %}">مدیران</a></li>
 
                 <li><a href="{% url 'myapp.views.allcost' %}">رسیدگی به درخواست های کارکنان</a></li>
                 <li><a href="{% url 'myapp.views.adminpayment' %}">رسیدگی به درخواست های کارکنان</a></li>
@@ -237,7 +237,7 @@
               </a>
 
               <ul>
-                <li><a href="{% url 'myapp.views.findmalek' %}" ">مرخصی</a></li>
+                <li><a href="{% url 'myapp.views.findpersonnel' %}" ">مرخصی</a></li>
                 <li><a href="{% url 'myapp.views.findvahed' %}">شیفت</a></li>
               </ul>
             </li>

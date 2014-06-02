@@ -20,17 +20,19 @@ class vahed(models.Model):
 
 
 
-class malek(models.Model):
-    pelak= models.CharField(max_length=100)
+class personnel(models.Model):
+    semat= models.CharField(max_length=100)
     mellicode= models.CharField(max_length=100)
+    personnelcode= models.CharField(max_length=100)
     pass1= models.CharField(max_length=100)
+    mobile= models.CharField(max_length=100)
     telephon= models.CharField(max_length=100)
     fn= models.CharField(max_length=100)
     ln= models.CharField(max_length=100)
     enddate= models.DateField(max_length=100)
     startdate= models.DateField(max_length=100)
-    parking= models.CharField(max_length=100)
-    malektype= models.CharField(max_length=100)
+
+    personneltype= models.CharField(max_length=100)
     admin= models.CharField(max_length=100)
 
 class shift(models.Model):
