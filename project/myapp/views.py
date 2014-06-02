@@ -69,6 +69,10 @@ def savepersonnel(request):
         enddate = request.POST.get('enddate')
         personneltype = request.POST.get('personneltype')
         admin = request.POST.get('admin')
+        x=personnel.objects.filter(personnelcode=personnelcode)
+
+        if len(x)!=0:
+           Msg.append("personnelcode is wrong or registered")
 
         if k=='T'and len(Msg)==0  :
             R=personnel(mellicode=request.POST.get("mellicode"),personnelcode = request.POST.get('personnelcode'),pass1=request.POST.get("pass1"),
