@@ -2,46 +2,46 @@ from django.db import models
 
 # Create your models here.
 class member(models.Model):
-  emil= models.EmailField(max_length=100)
-  pw= models.CharField(max_length=12)
-  ln= models.CharField(max_length=12)
-  ac= models.CharField(max_length=12)
-  fn= models.CharField(max_length=12)
-  en= models.CharField(max_length=12)
-  la= models.CharField(max_length=12)
+    emil= models.EmailField(max_length=100)
+    pw= models.CharField(max_length=12)
+    ln= models.CharField(max_length=12)
+    ac= models.CharField(max_length=12)
+    fn= models.CharField(max_length=12)
+    en= models.CharField(max_length=12)
+    la= models.CharField(max_length=12)
 
 
 
 class vahed(models.Model):
-     pelak= models.CharField(max_length=100)
-     metraj= models.CharField(max_length=100)
-     telephon= models.CharField(max_length=100)
-     parking= models.CharField(max_length=100)
+    pelak= models.CharField(max_length=100)
+    metraj= models.CharField(max_length=100)
+    telephon= models.CharField(max_length=100)
+    parking= models.CharField(max_length=100)
 
 
 
 class malek(models.Model):
-     pelak= models.CharField(max_length=100)
-     mellicode= models.CharField(max_length=100)
-     pass1= models.CharField(max_length=100)
-     telephon= models.CharField(max_length=100)
-     fn= models.CharField(max_length=100)
-     ln= models.CharField(max_length=100)
-     enddate= models.DateField(max_length=100)
-     startdate= models.DateField(max_length=100)
-     parking= models.CharField(max_length=100)
-     malektype= models.CharField(max_length=100)
-     admin= models.CharField(max_length=100)
+    pelak= models.CharField(max_length=100)
+    mellicode= models.CharField(max_length=100)
+    pass1= models.CharField(max_length=100)
+    telephon= models.CharField(max_length=100)
+    fn= models.CharField(max_length=100)
+    ln= models.CharField(max_length=100)
+    enddate= models.DateField(max_length=100)
+    startdate= models.DateField(max_length=100)
+    parking= models.CharField(max_length=100)
+    malektype= models.CharField(max_length=100)
+    admin= models.CharField(max_length=100)
 
-class cost(models.Model):
-     pelak= models.CharField(max_length=100)
-     costn= models.CharField(max_length=100)
-     regnum= models.CharField(max_length=100)
-     special= models.CharField(max_length=100)
-     costfor= models.CharField(max_length=100)
-     enddate= models.DateField(max_length=100)
-     startdate= models.DateField(max_length=100)
-     payed= models.CharField(max_length=100)
+class shift(models.Model):
+    id = models.AutoField(primary_key=True)
+    fn= models.CharField(max_length=100)
+    ln= models.CharField(max_length=100)
+    post= models.CharField(max_length=100)
+    bakhsh= models.CharField(max_length=100)
+    enddate= models.DateTimeField(max_length=100)
+    startdate= models.DateTimeField(max_length=100)
+
 class user(models.Model):
     fn=models.CharField(max_length=50)
     ln=models.CharField(max_length=50)
