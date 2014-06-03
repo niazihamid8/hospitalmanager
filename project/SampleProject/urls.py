@@ -37,7 +37,7 @@ urlpatterns = patterns('',
     url(r'^editmalek/([^/]+)/$', 'myapp.views.editmalek'),
     url(r'^allmalek/$', 'myapp.views.allmalek',name='allmalek'),
     #####################################################
-    #####################################################sabte cost
+    #####################################################sabte shift
     url(r'^sabtecost/$', 'myapp.views.sabtecost',name='sabtecost'),
     url(r'^savecost/$', 'myapp.views.savecost',name='savecost'),
     url(r'^showcost/$', 'myapp.views.showcost',name='showcost'),
