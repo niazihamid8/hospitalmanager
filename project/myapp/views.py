@@ -245,8 +245,8 @@ def deletecost (request,regnum):
     return HttpResponseRedirect("/showcost/")
 ###############################################
 def paycost (request,regnum):
-    x=cost.objects.get(regnum = regnum)
-    m= cost.objects.filter(regnum =regnum)[0]
+    x=shift.objects.get(regnum = regnum)
+    m= shift.objects.filter(regnum =regnum)[0]
     m.regnum=x.regnum
     m.costn=x.costn
     m.costfor=x.costfor
@@ -260,7 +260,7 @@ def paycost (request,regnum):
 ##################################################
 def editcost(request,regnum):
 
-    m=cost.objects.filter(regnum=regnum)
+    m=shift.objects.filter(regnum=regnum)
     return render(request,'user/sabte shift/sabteshift.html',{'Cost':m[0]})
 #########################################
 def allcost(request):
@@ -378,7 +378,7 @@ def price(request):
 ################################################
 def adminpayment(request):
     if request.session["login"]=="true":
-        Cost=cost.objects.filter(payed="no")
+        Cost=shift.objects.filter(payed="no")
 
         return render(request,'user/admin pages/payment.html',{'p':Cost})
     else:
@@ -401,7 +401,7 @@ def showfindedmalek(request):
         fn=m.fn
         ln=m.ln
         pelak=m.pelak
-        n=cost.objects.filter()
+        n=shift.objects.filter()
         return render(request,'user/admin pages/showfind.html',{'p':n,'mc':mc,'fn':fn,'ln':ln,'pelak':pelak,})
     else:
         return render(request,'user/login.html')
