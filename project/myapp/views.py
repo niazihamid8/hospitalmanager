@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from myapp.models import member,vahed,personnel,user,userh, shift,morakhasi
+from myapp.models import member,vahed,personnel,user,userh, shift,morakhasi,tagheershift
 from django.template import Template
 from django.http import HttpResponse, HttpResponseRedirect
 
@@ -590,4 +590,111 @@ def disagree (request,id):
     m.save()
     Morakhasi=morakhasi.objects.all()
     return render(request,'user/morakhasi request/showmorakhasi.html',{'p':Morakhasi})
+##################################################
+
+def sabtetagheershift(request):
+    if request.session["login"]=="true":
+        return render(request, 'user/change shift/sabtetagheershift.html')
+    else:
+        return render(request, 'user/login.html')
+###################################
+
+def savetagheershift(request):
+    #if request.session["login"]=="true":
+        Msg=[]
+        k=request.POST.get('newtagheershift')
+        fn = request.POST.get('fn')
+        ln = request.POST.get('ln')
+        post = request.POST.get('post')
+        bakhsh = request.POST.get('bakhsh')
+        firstdate = request.POST.get('startdate')
+        lastdate = request.POST.get('enddate')
+        elat=request.POST.get('elat')
+        personnelcode=request.POST.get("personnelcode")
+
+        x=tagheershift.objects.filter(personnelcode=personnelcode)
+
+        if len(x)!=0:
+           Msg.append("personnelcode is wrong or registered")
+
+        if k=='T'and len(Msg)==0  :
+            R=tagheershift(personnelcode=request.POST.get("personnelcode"),fn=request.POST.get("fn"),ln=request.POST.get("ln"),post=request.POST.get("post"),
+                     firstdate=request.POST.get("firstdate"),
+                     lastdate=request.POST.get("lastdate"),bakhsh=request.POST.get("bakhsh"),elat=request.POST.get("elat"),adminaccept="No")
+            R.save()
+            return render(request,'user/change shift/showtagheershift.html')
+        elif k!='T':
+            m= shift.objects.filter(personnelcode =request.POST.get('oldtagheershift'))[0]
+            m.fn=fn
+            m.ln=ln
+            m.post=post
+            m.bakhsh=bakhsh
+            m.firstdate=firstdate
+            m.lastdate=lastdate
+            m.elat=elat
+            m.personnelcode=personnelcode
+
+            m.save()
+
+            return HttpResponseRedirect("/showtagheershift/")
+        else:
+            return render(request,'user/change shift/sabtetagheershift.html',{'Msg':Msg})
+   # else:
+            return render(request,'user/login.html')
+
+
+def showtagheershift(request):
+
+ if request.session["login"]=="true":
+    tagheershift1=tagheershift.objects.all()
+    return render(request,'user/change shift/showtagheershift.html',{'p':tagheershift1})
+ else:
+            return render(request, 'user/login.html')
+#######################################
+def csagree (request,id):
+    x=tagheershift.objects.get()
+    m= tagheershift.objects.filter(id=id)[0]
+    m.id=id
+    m.fn=x.fn
+    m.ln=x.ln
+    m.post=x.post
+    m.personnelcode=x.personnelcode
+    m.comment=x.comment
+    m.adminaccept="yes"
+    m.bakhsh=x.bakhsh
+    m.firstdate=x.firstdate
+    m.lastdate=x.lastdate
+    m.elat=x.elat
+
+    m.save()
+    Tagheershift=tagheershift.objects.all()
+    return render(request,'user/change shift/showtagheershift.html',{'p':Tagheershift})
+########################33
+
+def adminshowtagheershift(request):
+ if request.session["login"]=="true":
+    Tagheershift=tagheershift.objects.all()
+    return render(request,'user/change shift/adminshowtagheershift.html',{'p':Tagheershift})
+
+ else:
+            return render(request, 'user/login.html')
+##################################################
+def csdisagree (request,id):
+    x=tagheershift.objects.get()
+    m= tagheershift.objects.filter(id=id)[0]
+    m.id=id
+    m.fn=x.fn
+    m.ln=x.ln
+    m.post=x.post
+    m.personnelcode=x.personnelcode
+    m.comment=x.comment
+    m.adminaccept="No"
+    m.bakhsh=x.bakhsh
+    m.firstdate=x.firstdate
+    m.lastdate=x.lastdate
+    m.elat=x.elat
+
+    m.save()
+    Tagheershift=tagheershift.objects.all()
+    return render(request,'user/change shift/showtagheershift.html',{'p':Tagheershift})
 ##################################################

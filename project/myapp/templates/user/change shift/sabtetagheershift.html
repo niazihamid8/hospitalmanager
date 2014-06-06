@@ -1,0 +1,107 @@
+{% extends "layouts/baseadmin.html" %}
+
+{% block page_title %}{% endblock %}
+
+{% block content %}
+    {% for i in lst %}
+        <h1>{{ i }}</h1>
+    {% endfor %}
+	    <div class="matter">
+        <div class="container">
+
+          <div class="row">
+
+            <div class="col-md-12">
+
+              <div class="widget wred">
+                <div class="widget-head">
+                  <div class="pull-left"></div>
+                  <div class="widget-icons pull-right">
+                    <a href="#" class="wminimize"><i class="icon-chevron-up"></i></a>
+                    <a href="#" class="wclose"><i class="icon-remove"></i></a>
+                  </div>
+                  <div class="clearfix"></div>
+                </div>
+
+                <div class="widget-content">
+                  <div class="padd">
+
+                    <!-- Profile form -->
+
+                                    <div class="form profile" >
+
+        <form action="/savetagheershift/" method="post">
+            {% csrf_token %}
+
+                         {%for msg in Msg %}
+                <p>پیغام ها:</p>
+            <p style="background-color:limegreen "> {{msg}} </p>
+            {% endfor %}
+                                    <div class="form-group">
+                                        <label for="personnelcode">کد پرسونلی</label>
+                                        <input type="text" class="form-control" value="{{ tagheershift.personnelcode }}" id="personnelcode" name="personnelcode" placeholder="نام کارمند">
+                                    </div>
+                           <div class="form-group">
+                                <label for="fn">نام کارمند</label>
+                                <input type="text" class="form-control" value="{{ tagheershift.fn }}" id="fn" name="fn" placeholder="نام کارمند">
+                            </div>
+                            <div class="form-group">
+                                <label for="ln">نام خانوادگی کارمند</label>
+                                <input type="text" class="form-control" id="ln" value="{{ tagheershift.ln }}" accept="" name="ln" placeholder="نام خانوادگی کارمند">
+                            </div>
+
+
+
+                            <div class="form-group">
+                                <label for="post">پست کاری</label>
+                                <select class="form-control"value="{{ tagheershift.post }}" id="post" name="post">
+                                    <option>دکتر</option>
+                                    <option>مسعول بخش</option>
+                                    <option>پرستار</option>
+                                    <option>منشی</option>
+                                </select>
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="bakhsh">بخش</label>
+                                <select class="form-control"value="{{ tagheershift.bakhsh }}" id="bakhsh" name="bakhsh">
+                                    <option>اورژانس</option>
+                                    <option>قلب</option>
+                                    <option>داخلی</option>
+                                    {#                        <option>منشی</option>#}
+                                </select>
+                            </div>
+                  <div class="form-group">
+                      <label for="firstdate">تاریخ و ساعت شیفت فعلی</label>
+                      <input type="datetime-local" class="form-control" id="firstdate" value="{{ tagheershift.firstdate }}" accept="" name="lastdate" >
+                  </div>
+                  <div class="form-group">
+                      <label for="lastdate">تاریخ و ساعت شیفت درخواستی</label>
+                      <input type="datetime-local" class="form-control" id="lastdate" value="{{ tagheershift.lastdate }}" accept="" name="firstdate" >
+                  </div>
+                  <div class="form-group" >
+                      <label for="fn">علت درخواست تغییر شیفت</label>
+                      <input type="text" class="form-control" value="{{ tagheershift.elat }}" id="elat" name="elat" placeholder="علت درخواست تغییر شیفت">
+                  </div>
+
+            <input type="submit" value="save" class="btn btn-default" >
+            <input type="hidden" name="newtagheershift" value="{% if tagheershift %}F{% else %}T{% endif %}">
+            <input type="hidden" value="{{ tagheershift.firstdate }}"name="oldtagheershift">
+
+        </form>
+                                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+		  </div>
+
+{% endblock content %}

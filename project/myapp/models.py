@@ -57,6 +57,19 @@ class morakhasi(models.Model):
     adminaccept=models.CharField(max_length=100)
 
 
+class tagheershift(models.Model):
+    personnelcode= models.CharField(max_length=100)
+    id = models.AutoField(primary_key=True)
+    fn= models.CharField(max_length=100)
+    ln= models.CharField(max_length=100)
+    post= models.CharField(max_length=100)
+    bakhsh= models.CharField(max_length=100)
+    elat=models.CharField(max_length=500)
+    firstdate=models.CharField(max_length=100)
+    lastdate=models.CharField(max_length=200)
+    adminaccept=models.CharField(max_length=200)
+
+
 class user(models.Model):
     fn=models.CharField(max_length=50)
     ln=models.CharField(max_length=50)

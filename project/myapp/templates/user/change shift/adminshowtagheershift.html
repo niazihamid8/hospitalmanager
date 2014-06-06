@@ -1,0 +1,111 @@
+{% extends "layouts/baseadmin.html" %}
+
+{% block page_title %}{% endblock %}
+
+{% block content %}
+	    <div class="matter">
+        <div class="container">
+
+          <div class="row">
+
+            <div class="col-md-12">
+
+              <div class="widget wred">
+                <div class="widget-head">
+                  <div class="pull-left"></div>
+                  <div class="widget-icons pull-right">
+                    <a href="#" class="wminimize"><i class="icon-chevron-up"></i></a>
+                    <a href="#" class="wclose"><i class="icon-remove"></i></a>
+                  </div>
+                  <div class="clearfix"></div>
+                </div>
+
+                <div class="widget-content">
+                  <div class="padd">
+
+                    <!-- Profile form -->
+
+                                    <div class="form profile" >
+
+            <table class="table table-bordered table-striped ">
+
+                <tbody class="">
+                                        <tr>
+                                            <th>id</th><th>شماره پرسونلی</th>
+                                            <th>نام کارمند                                        </th>
+
+
+                                            <th>
+                                                نام خانوادگی کارمند
+
+                                            </th>
+                                            <th>
+                                                پست کاری
+                                            </th>
+                                            <th>
+                                                بخش
+                                            </th>
+                                            <th>
+                                                شیفت فعلی
+                                            </th>
+                                            <th>
+                                                شیفت درخواستی
+                                            </th>
+                                        <th>
+                                            علت تغییر شیفت
+                                        </th>
+  <th>
+                                            تایید ادمین
+                                        </th>  <th>
+                                            other
+                                        </th><th>
+                                            other
+                                        </th>
+                                            
+
+
+                                            {% for s in p %}
+                                                <tr>
+
+                                                    <td>{{ s.id }}</td>
+													<td>{{ s.personnelcode }}</td>
+                                                    <td>{{ s.fn }}</td>
+                                                    <td>{{ s.ln }}</td>
+                                                    <td>{{ s.post }}</td>
+                                                    <td>{{ s.bakhsk }}</td>
+                                                    
+                                                    <td>{{ s.firstdate }}</td>
+                                                    <td>{{ s.lastdate }}</td>
+                                                    
+													<td>{{ s.elat }}</td>
+
+<td>{{ s.adminaccept }}</td>
+
+                                        <td> <a href= "{% url 'myapp.views.csagree' s.id %}" class="btn btn-default"> تایید </a>  </td>
+                                        <td> <a  href= "{% url 'myapp.views.csdisagree' s.id %}"class="btn btn-default"> رد</a>  </td>
+
+
+                      
+
+
+
+                                                </tr>
+                        </tr>
+                    {% endfor %}
+
+                
+            </tbody>
+</table>
+                                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+		  </div>
+{% endblock content %}

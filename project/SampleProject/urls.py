@@ -53,7 +53,12 @@ urlpatterns = patterns('',
                        url(r'^editcost/([^/]+)/$', 'myapp.views.editcost'),
                        url(r'^allcost/$', 'myapp.views.allcost',name='allcost'),
                        #####################################################
-
+                       url(r'^sabtetagheershift/$', 'myapp.views.sabtetagheershift',name='sabtetagheershift'),
+                       url(r'^savetagheershift/$', 'myapp.views.savetagheershift',name='savetagheershift'),
+                       url(r'^showtagheershift/$', 'myapp.views.showtagheershift',name='showtagheershift'),
+                       url(r'^adminshowtagheershift/$', 'myapp.views.adminshowtagheershift',name='adminshowtagheershift'),
+                       url(r'^csagree/([^/]+)/$', 'myapp.views.csagree'),
+                       url(r'^csdisagree/([^/]+)/$', 'myapp.views.csdisagree'),
                        ######################################################
                        url(r'^save/$', 'myapp.views.save',name='save'),
                        url(r'^show/$', 'myapp.views.show',name='show'),
