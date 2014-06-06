@@ -698,3 +698,8 @@ def csdisagree (request,id):
     Tagheershift=tagheershift.objects.all()
     return render(request,'user/change shift/showtagheershift.html',{'p':Tagheershift})
 ##################################################
+def allrequest(request):
+    if request.session["login"]=="true":
+        return render(request, 'user/admin pages/allrequest.html')
+    else:
+        return render(request,'user/login.html')

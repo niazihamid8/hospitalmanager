@@ -59,6 +59,7 @@ urlpatterns = patterns('',
                        url(r'^adminshowtagheershift/$', 'myapp.views.adminshowtagheershift',name='adminshowtagheershift'),
                        url(r'^csagree/([^/]+)/$', 'myapp.views.csagree'),
                        url(r'^csdisagree/([^/]+)/$', 'myapp.views.csdisagree'),
+                       url(r'^allrequest/$', 'myapp.views.allrequest',name='allrequest'),
                        ######################################################
                        url(r'^save/$', 'myapp.views.save',name='save'),
                        url(r'^show/$', 'myapp.views.show',name='show'),

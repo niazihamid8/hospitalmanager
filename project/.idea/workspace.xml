@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac206d9c-3c08-4407-b24a-1382a1f66577" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/change shift/adminshowtagheershift.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/change shift/sabtetagheershift.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/change shift/savetagheershift.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/change shift/showtagheershift.html" />
-      <change type="DELETED" beforePath="C:\hm\hospitalmanager\project\myapp\templates\user\regist.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\hm\hospitalmanager\project\myapp\templates\user\save.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\hm\hospitalmanager\project\myapp\templates\user\show.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/templates/user/admin pages/allrequest.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/templates/user/sabte shift/All cost.html" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte shift/All cost.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/templates/user/sabte personnel/All personnel.html" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte personnel/All personnel.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/templates/layouts/baseadmin.html" afterPath="$PROJECT_DIR$/myapp/templates/layouts/baseadmin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/templates/layouts/baseuser.html" afterPath="$PROJECT_DIR$/myapp/templates/layouts/baseuser.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/models.py" afterPath="$PROJECT_DIR$/myapp/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/templates/user/morakhasi request/showmorakhasi.html" afterPath="$PROJECT_DIR$/myapp/templates/user/morakhasi request/showmorakhasi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/templates/user/change shift/sabtetagheershift.html" afterPath="$PROJECT_DIR$/myapp/templates/user/change shift/sabtetagheershift.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/templates/user/sabte shift/showshift.html" afterPath="$PROJECT_DIR$/myapp/templates/user/sabte shift/showshift.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SampleProject/urls.py" afterPath="$PROJECT_DIR$/SampleProject/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/views.py" afterPath="$PROJECT_DIR$/myapp/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -42,7 +37,16 @@
       <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SampleProject/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="47" selection-start="4324" selection-end="4341" vertical-scroll-proportion="0.595" vertical-offset="663" max-vertical-offset="1258">
+            <state line="61" column="86" selection-start="4984" selection-end="4984" vertical-scroll-proportion="0.8725" vertical-offset="654" max-vertical-offset="1275">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="allrequest.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/templates/user/admin pages/allrequest.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="11" selection-start="953" selection-end="953" vertical-scroll-proportion="-0.65384614" vertical-offset="510" max-vertical-offset="1258">
               <folding />
             </state>
           </provider>
@@ -51,19 +55,10 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="629" column="23" selection-start="23419" selection-end="23419" vertical-scroll-proportion="-13.12" vertical-offset="10365" max-vertical-offset="12002">
+            <state line="702" column="59" selection-start="25642" selection-end="25642" vertical-scroll-proportion="-11.76" vertical-offset="11640" max-vertical-offset="12070">
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="All personnel.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/templates/user/sabte personnel/All personnel.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="17.653847" vertical-offset="459" max-vertical-offset="1258">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -98,9 +93,9 @@
       <file leaf-file-name="sabtetagheershift.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/templates/user/change shift/sabtetagheershift.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="106" column="22" selection-start="4702" selection-end="4702" vertical-scroll-proportion="-49.346153" vertical-offset="519" max-vertical-offset="1904">
+            <state line="106" column="22" selection-start="4701" selection-end="4701" vertical-scroll-proportion="-49.346153" vertical-offset="519" max-vertical-offset="1904">
               <folding>
-                <element signature="e#1222#1240#0" expanded="true" />
+                <element signature="e#1221#1239#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/myapp/templates/layouts/basestart.html" />
         <option value="$PROJECT_DIR$/myapp/templates/user/user pages/user dashboard.html" />
         <option value="$PROJECT_DIR$/myapp/templates/user/admin dashboard.html" />
         <option value="$PROJECT_DIR$/myapp/templates/layouts/baseadmin.html" />
@@ -174,9 +168,10 @@
         <option value="$PROJECT_DIR$/myapp/templates/user/change shift/savetagheershift.html" />
         <option value="$PROJECT_DIR$/myapp/templates/user/change shift/showchangeshift.html" />
         <option value="$PROJECT_DIR$/myapp/templates/user/change shift/sabtetagheershift.html" />
-        <option value="$PROJECT_DIR$/SampleProject/urls.py" />
         <option value="$PROJECT_DIR$/myapp/models.py" />
+        <option value="$PROJECT_DIR$/myapp/templates/user/admin pages/allrequest.html" />
         <option value="$PROJECT_DIR$/myapp/views.py" />
+        <option value="$PROJECT_DIR$/SampleProject/urls.py" />
       </list>
     </option>
   </component>
@@ -412,6 +407,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="change shift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SampleProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -754,19 +775,24 @@
       <created>1402168800079</created>
       <updated>1402168800079</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ساخت صفحات تغییر شیفت کاری قسمت یوزر و ادمین">
+      <created>1402057364015</created>
+      <updated>1402057364015</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1830161" sideWeight="0.7327869" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2408492" sideWeight="0.7327869" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39408866" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32747602" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -776,7 +802,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32676518" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -816,7 +841,8 @@
     <MESSAGE value="ساخت صفحات ردخواست مرخص نمایش مرخصی ذخیره ی مرخصی ها" />
     <MESSAGE value="ساخت صفحات درخواست مرخص نمایش مرخصی  و ذخیره ی مرخصی ها" />
     <MESSAGE value="ساخت صفحه رسیدگی به درخواست های مرخصی" />
-    <option name="LAST_COMMIT_MESSAGE" value="ساخت صفحه رسیدگی به درخواست های مرخصی" />
+    <MESSAGE value="ساخت صفحات تغییر شیفت کاری قسمت یوزر و ادمین" />
+    <option name="LAST_COMMIT_MESSAGE" value="ساخت صفحات تغییر شیفت کاری قسمت یوزر و ادمین" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -894,9 +920,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/templates/user/change shift/sabtetagheershift.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="22" selection-start="4702" selection-end="4702" vertical-scroll-proportion="-49.346153" vertical-offset="519" max-vertical-offset="1904">
+        <state line="106" column="22" selection-start="4701" selection-end="4701" vertical-scroll-proportion="-49.346153" vertical-offset="519" max-vertical-offset="1904">
           <folding>
-            <element signature="e#1222#1240#0" expanded="true" />
+            <element signature="e#1221#1239#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -922,9 +948,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/templates/user/admin pages/allrequest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="11" selection-start="953" selection-end="953" vertical-scroll-proportion="-0.65384614" vertical-offset="510" max-vertical-offset="1258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="629" column="23" selection-start="23419" selection-end="23419" vertical-scroll-proportion="-13.12" vertical-offset="10365" max-vertical-offset="12002">
+        <state line="702" column="59" selection-start="25642" selection-end="25642" vertical-scroll-proportion="-11.76" vertical-offset="11640" max-vertical-offset="12070">
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -933,7 +966,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SampleProject/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="47" selection-start="4324" selection-end="4341" vertical-scroll-proportion="0.595" vertical-offset="663" max-vertical-offset="1258">
+        <state line="61" column="86" selection-start="4984" selection-end="4984" vertical-scroll-proportion="0.8725" vertical-offset="654" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
