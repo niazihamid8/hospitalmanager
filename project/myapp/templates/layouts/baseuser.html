@@ -93,10 +93,6 @@
       </div>
 
     </div>
-
-
-
-
 <!-- Main content starts -->
 
 <div class="content"  >
@@ -107,12 +103,17 @@
 
         <div class="sidebar-inner" >
 
-
           <!--- Sidebar navigation -->
           <!-- If the main navigation has sub navigation, then add the class "has_submenu" to "li" of main navigation. -->
           <ul class="navi">
+
+            <!-- Use the class nred, ngreen, nblue, nlightblue, nviolet or norange to add background color. You need to use this in <li> tag. -->
+
+
+               <li class="has_submenu nlightblue">
+              <a href="#">
                 <!-- Menu name with icon -->
-                <i class="icon-file"></i> ایجاد درخواست کارکنان
+                <i class="icon-file"></i>ايجاد درخواست کارکنان
                 <!-- Icon for dropdown -->
                 <span class="pull-left"><i class="icon-angle-left"></i></span>
               </a>
@@ -120,11 +121,11 @@
               <ul style="font-size:medium; margin-right:30px">
 
                 <li><a href="{% url 'myapp.views.all' %}">واحد</a></li>
-                <li><a href="{% url 'myapp.views.allmalek' %}">درخواست مرخصی</a></li>
+                <li><a href="{% url 'myapp.views.allpersonnel' %}">درخواست مرخصي</a></li>
 
-                <li><a href="{% url 'myapp.views.allcost' %}">درخواست تغییر شیفت کاری</a></li>
-                <li><a href="{% url 'myapp.views.adminpayment' %}">درخواست تعویض شیفت کاری با دیگران</a></li>
-                <li><a href="{% url 'myapp.views.adminpayment' %}">درخواست ایجاد جلسات کارکنان</a></li>
+                <li><a href="{% url 'myapp.views.allcost' %}">درخواست تغيير شيفت کاري</a></li>
+                <li><a href="{% url 'myapp.views.adminpayment' %}">درخواست تعويض شيفت کاري با ديگران</a></li>
+                <li><a href="{% url 'myapp.views.adminpayment' %}">درخواست ايجاد جلسات کارکنان</a></li>
 
 
               </ul>
@@ -133,28 +134,28 @@
             <!-- Menu with sub menu -->
             <li class="has_submenu nlightblue">
               <a href="#">
-                <!-- Menu name with icon -->
+            <!-- Menu name with icon -->
                 <i class="icon-search"></i> جستجو و ویرایش اطلاعات
                 <!-- Icon for dropdown -->
                 <span class="pull-left"><i class="icon-angle-left"></i></span>
               </a>
 
               <ul>
-                <li><a href="{% url 'myapp.views.findmalek' %}" ">مرخصی</a></li>
+                <li><a href="{% url 'myapp.views.findpersonnel' %}" >مرخصی</a></li>
                 <li><a href="{% url 'myapp.views.findvahed' %}">شیفت</a></li>
               </ul>
             </li>
+
             <!-- Use the class nred, ngreen, nblue, nlightblue, nviolet or norange to add background color. You need to use this in <li> tag. -->
               <li class="ngreen"><a href="{% url 'myapp.views.login' %}"><i class="icon-briefcase"></i> جلسات کارکنان</a></li>
 
-              <li class="ngreen"><a href="{% url 'myapp.views.galery' %}"><i class="icon-picture"></i> گالری تصاویر</a></li>
+              <li class="ngreen"><a href="{% url 'myapp.views.galery' %}"><i class="icon-picture"></i> گالري تصاوير</a></li>
               <li class="ngreen"><a href="{% url 'myapp.views.price' %}"><i class=" icon-bar-chart"></i> اخبار</a></li>
 
 
              <li class="ngreen"><a href="{% url 'myapp.views.contactus' %}"><i class="icon-heart"></i> ارتباط با ما</a></li>
            <li class="ngreen"><a href="{% url 'myapp.views.aboutus' %}"><i class="icon-user"></i>درباره ما  </a></li>
              <li class="ngreen"><a href="{% url 'myapp.views.help' %}"><i class="icon-question-sign"></i> راهنما</a></li>
-
           </ul>
 
 
@@ -173,6 +174,12 @@
 
     <!-- Sidebar ends -->
 
+
+
+
+	
+	
+	
 
   	<!-- Main bar -->
   	<div class="mainbar " style="margin-right:250px;margin-left:0px" >

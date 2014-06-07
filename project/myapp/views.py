@@ -335,12 +335,12 @@ def userdashboard(request):
 
         if adm=="admin":
             request.session["login"]="true"
-            Cost=shift.objects.filter(payed="no")
-            return render(request,'user/admin dashboard.html',{'username':username,'mellicode':mellicode,'p':Cost})
+
+            return render(request,'user/admin dashboard.html',{'username':username,'mellicode':mellicode})
         else:
-            Cost=shift.objects.filter(payed="no")
+
             request.session["login"]="true"
-            return render(request,'user/user pages/user dashboard.html',{'username':username,'p':Cost,'mellicode':mellicode})
+            return render(request,'user/user pages/user dashboard.html',{'username':username,'mellicode':mellicode})
 
 
 
