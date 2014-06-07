@@ -540,11 +540,54 @@ def darkhasteMorakhasi(request):
             return render(request, 'user/login.html')
 
 
+def showmorakhasiAdmin(request):
+ if request.session["login"]=="true":
+    Morakhasi=morakhasi.objects.all()
+    return render(request,'user/morakhasi request/showmorakhasi.html',{'p':Morakhasi})
+
+ else:
+            return render(request, 'user/login.html')
+###############################################
 def showmorakhasi(request):
  if request.session["login"]=="true":
     Morakhasi=morakhasi.objects.all()
     return render(request,'user/user pages/showmorakhasi.html',{'p':Morakhasi})
  else:
             return render(request, 'user/login.html')
-    #################################################
-###############################################
+###############################
+def agree (request,id):
+    x=morakhasi.objects.get()
+    m= morakhasi.objects.filter(id=id)[0]
+    m.id=id
+    m.fn=x.fn
+    m.ln=x.ln
+    m.post=x.post
+    m.personnelcode=x.personnelcode
+    m.comment=x.comment
+    m.adminaccept="yes"
+    m.bakhsh=x.bakhsh
+    m.startdate=x.startdate
+    m.enddate=x.enddate
+
+    m.save()
+    Morakhasi=morakhasi.objects.all()
+    return render(request,'user/morakhasi request/showmorakhasi.html',{'p':Morakhasi})
+##################################################
+def disagree (request,id):
+    x=morakhasi.objects.get()
+    m= morakhasi.objects.filter(id=id)[0]
+    m.id=id
+    m.fn=x.fn
+    m.ln=x.ln
+    m.post=x.post
+    m.personnelcode=x.personnelcode
+    m.comment=x.comment
+    m.adminaccept="no"
+    m.bakhsh=x.bakhsh
+    m.startdate=x.startdate
+    m.enddate=x.enddate
+
+    m.save()
+    Morakhasi=morakhasi.objects.all()
+    return render(request,'user/morakhasi request/showmorakhasi.html',{'p':Morakhasi})
+##################################################
