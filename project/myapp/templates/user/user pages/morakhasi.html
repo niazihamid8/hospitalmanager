@@ -1,0 +1,113 @@
+﻿{% extends "layouts/baseuser.html" %}
+
+{% block page_title %}{% endblock %}
+
+{% block content %}
+{% for i in lst %}
+<h1>{{ i }}</h1>
+{% endfor %}
+<div class="matter">
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-md-12">
+
+                <div class="widget wred">
+                    <div class="widget-head">
+                        <div class="pull-left">درخواست مرخصی</div>
+                        <div class="widget-icons pull-right">
+                            <a href="#" class="wminimize"><i class="icon-chevron-up"></i></a>
+                            <a href="#" class="wclose"><i class="icon-remove"></i></a>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+
+                    <div class="widget-content">
+                        <div class="padd">
+
+                            <!-- Profile form -->
+
+                            <div class="form profile" >
+
+                                <form action="/savemorakhasi/" method="post">
+                                    {% csrf_token %}
+                                    {%for msg in Msg %}
+                                    <p>پیغام ها:</p>
+                                    <p style="background-color:limegreen "> {{msg}} </p>
+                                    {% endfor %}
+                                    <div class="form-group">
+                                        <label for="fn">کد پرسونلی</label>
+                                        <input type="text" class="form-control" value="{{ morakhasi.personnelcode }}" id="personnelcode" name="personnelcode" placeholder="نام کارمند">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="fn">نام کارمند</label>
+                                        <input type="text" class="form-control" value="{{ morakhasi.fn }}" id="fn" name="fn" placeholder="نام کارمند">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="ln">نام خانوادگی کارمند</label>
+                                        <input type="text" class="form-control" id="ln" value="{{ morakhasi.ln }}" accept="" name="ln" placeholder="نام خانوادگی کارمند">
+                                    </div>
+
+
+
+                                    <div class="form-group">
+                                        <label for="post">پست کاری</label>
+                                        <select class="form-control"value="{{ morakhasi.post }}" id="post" name="post">
+                                            <option>دکتر</option>
+                                            <option>مسعول بخش</option>
+                                            <option>پرستار</option>
+                                            <option>منشی</option>
+                                        </select>
+                                    </div>
+
+
+                                    <div class="form-group">
+
+                                        <label for="bakhsh">بخش</label>
+                                        <select class="form-control"value="{{ morakhasi.bakhsh }}" id="bakhsh" name="bakhsh">
+                                            <option>اورژانس</option>
+                                            <option>قلب</option>
+                                            <option>داخلی</option>
+                                            {#                        <option>منشی</option>#}
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="startdate">تاریخ و ساعت شروع مرخصی</label>
+                                        <input type="datetime-local" class="form-control" id="startdate" value="{{ morakhasi.startdate }}" accept="" name="startdate" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="enddate">تاریخ و ساعت پایان مرخصی</label>
+                                        <input type="datetime-local" class="form-control" id="enddate" value="{{ morakhasi.enddate }}" accept="" name="enddate">
+                                    </div>
+
+                                          <div class="form-group">
+                                            <label class="control-label col-lg-3" for="comment">comment</label>
+                                            <div class="col-lg-9">
+                                              <textarea class="form-control" id="comment" value="{{ morakhasi.comment }}" accept="" name="comment" ></textarea>
+                                            </div>
+                                          </div>   
+
+
+            <input type="submit" value="ذخیره" class="btn btn-default" >
+            <input type="hidden" name="newmorakhasi" value="{% if morakhasi %}F{% else %}T{% endif %}">
+            <input type="hidden" value="{{ morakhasi.personnelcode }}"name="oldmorakhasi">
+
+
+                                </form>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+<div></div>
+
+
+{% endblock content %}

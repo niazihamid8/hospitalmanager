@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from myapp.models import member,vahed,personnel,user,userh, shift
+from myapp.models import member,vahed,personnel,user,userh, shift,morakhasi
 from django.template import Template
 from django.http import HttpResponse, HttpResponseRedirect
 
@@ -182,10 +182,10 @@ def all(request):
 #############################################################
 ##########################sabte shift######################
 def sabteshift(request):
-# if request.session["login"]=="true":
+ if request.session["login"]=="true":
     return render(request, 'user/sabte shift/sabteshift.html')
-    # else:
-    #        return render(request, 'user/login.html')
+ else:
+            return render(request, 'user/login.html')
     #############################################
 def savecost(request):
     if request.session["login"]=="true":
@@ -417,6 +417,7 @@ def findvahed(request):
     else:
         return render(request,'user/login.html')
         ##############################
+
 def showfindedvahed(request):
     if request.session["login"]=="true":
         pelak=request.POST.get('pelak')
@@ -428,3 +429,122 @@ def showfindedvahed(request):
         return render(request,'user/admin pages/show finded vahed.html',{'pelak':pelak,'metraj':metraj,'telephon':telephon,'parking':parking})
     else:
         return render(request,'user/login.html')
+############################################
+
+ # def savemorakhasi(request):
+ #    if request.session["login"]=="true":
+ #        Msg=[]
+ #        k=request.POST.get('newmorakhasi')
+ #        q=request.POST.get('newmorakhasi1')
+ #        personnelcode = request.POST.get('personnelcode')
+ #        fn = request.POST.get('fn')
+ #        ln = request.POST.get('ln')
+ #        post = request.POST.get('post')
+ #        bakhsh = request.POST.get('bakhsh')
+ #        comment=request.POST.get('comment')
+ #        adminaccept="no"
+ #
+ #        startdate = request.POST.get('startdate')
+ #        enddate = request.POST.get('enddate')
+ #        if startdate=='mm/dd/yyyy':
+ #            Msg.append("please enter your date")
+ #        if enddate=='mm/dd/yyyy':
+ #            Msg.append("please enter your date")
+ #        if len(fn)==0:
+ #            Msg.append("please enter your first name")
+ #        if len(ln)==0:
+ #            Msg.append("please enter your last name")
+ #        if len(post)==0:
+ #            Msg.append("please enter your post")
+ #        if len(bakhsh)==0:
+ #            Msg.append("please enter your bakhsh")
+ #
+ #        if k=='T'and q=='T'and len(Msg)==0:
+ #            p =morakhasi(personnelcode=request.POST.get("personnelcode"),fn=request.POST.get("fn"),ln=request.POST.get("ln"),post=request.POST.get("post"),
+ #                     startdate=request.POST.get("startdate"),
+ #                     enddate=request.POST.get("enddate"),bakhsh=request.POST.get("bakhsh"),comment=request.POST.get("comment"),adminaccept=request.POST.get("bakhsh"))
+ #            p.save()
+ #
+ #
+ #            return render(request,'user/user pages/savemorakhasi.html')
+ #        elif k!='T' and q!='T':
+ #            m= morakhasi.objects.filter(ln =request.POST.get('oldmorakhasi'))[0]
+ #            m.personnelcode=personnelcode
+ #            m.fn=fn
+ #            m.ln=ln
+ #            m.post=post
+ #            m.bakhsh=bakhsh
+ #            m.startdate=startdate
+ #            m.enddate=enddate
+ #
+ #            m.save()
+ #            return HttpResponseRedirect("/showmorakhasi/")
+ #        else:
+ #            return render(request,'user/user pages/savemorakhasi.html',{'Msg':Msg})
+ #    else:
+ #        return render(request, 'user/login.html')
+    ###########################################
+def savemorakhasi(request):
+    if request.session["login"]=="true":
+        Msg=[]
+        k=request.POST.get('newmorakhasi')
+
+        fn = request.POST.get('fn')
+        ln = request.POST.get('ln')
+        post = request.POST.get('post')
+        bakhsh = request.POST.get('bakhsh')
+        personnelcode = request.POST.get('personnelcode')
+        comment = request.POST.get('comment')
+        adminaccept="no"
+
+        startdate = request.POST.get('startdate')
+        enddate = request.POST.get('enddate')
+
+        if k=='T':
+            p =morakhasi(personnelcode=request.POST.get("personnelcode"),comment=request.POST.get("comment"),
+                         adminaccept=adminaccept,
+                         fn=request.POST.get("fn"),ln=request.POST.get("ln"),post=request.POST.get("post"),
+                     startdate=request.POST.get("startdate"),
+                     enddate=request.POST.get("enddate"),bakhsh=request.POST.get("bakhsh"))
+            p.save()
+
+
+            return render(request,'user/user pages/savemorakhasi.html')
+        elif k!='T':
+            m= morakhasi.objects.filter(ln =request.POST.get('oldmorakhasi'))[0]
+            m.fn=fn
+            m.ln=ln
+            m.post=post
+            m.personnelcode=personnelcode
+            m.comment=comment
+            m.adminaccept=adminaccept
+            m.bakhsh=bakhsh
+            m.startdate=startdate
+            m.enddate=enddate
+
+            m.save()
+            return HttpResponseRedirect("/showmorakhasi/")
+        else:
+            return render(request,'user/user pages/savemorakhasi.html',{'Msg':Msg})
+    else:
+        return render(request, 'user/login.html')
+        #############################################
+
+##############################################
+
+def darkhasteMorakhasi(request):
+
+ if request.session["login"]=="true":
+    return render(request, 'user/user pages/morakhasi.html')
+ else:
+            return render(request, 'user/login.html')
+
+
+def showmorakhasi(request):
+ if request.session["login"]=="true":
+    Morakhasi=morakhasi.objects.all()
+    return render(request,'user/user pages/showmorakhasi.html',{'p':Morakhasi})
+ else:
+            return render(request, 'user/login.html')
+    #################################################
+###############################################

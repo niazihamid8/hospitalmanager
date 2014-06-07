@@ -44,6 +44,19 @@ class shift(models.Model):
     enddate= models.DateTimeField(max_length=100)
     startdate= models.DateTimeField(max_length=100)
 
+class morakhasi(models.Model):
+    id = models.AutoField(primary_key=True)
+    personnelcode= models.CharField(max_length=100)
+    fn= models.CharField(max_length=100)
+    ln= models.CharField(max_length=100)
+    post= models.CharField(max_length=100)
+    bakhsh= models.CharField(max_length=100)
+    enddate= models.DateTimeField(max_length=100)
+    startdate= models.DateTimeField(max_length=100)
+    comment= models.TextField(max_length=1000)
+    adminaccept=models.CharField(max_length=100)
+
+
 class user(models.Model):
     fn=models.CharField(max_length=50)
     ln=models.CharField(max_length=50)

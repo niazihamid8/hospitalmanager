@@ -16,6 +16,10 @@ urlpatterns = patterns('',
                        url(r'^price/$' ,'myapp.views.price',name='price'),
                        url(r'^edituser/([^/]+)/$', 'myapp.views.edituser',name='edituser'),
                        url(r'^logout/$' ,'myapp.views.logout',name='logout'),
+                       #####################################################user pages
+                       url(r'^darkhasteMorakhasi/$' ,'myapp.views.darkhasteMorakhasi',name='darkhasteMorakhasi'),
+                       url(r'^savemorakhasi/$', 'myapp.views.savemorakhasi',name='savemorakhasi'),
+                       url(r'^showmorakhasi/$', 'myapp.views.showmorakhasi',name='showmorakhasi'),
                        ########################################################admin
                        url(r'^adminpayment/$' ,'myapp.views.adminpayment',name='adminpayment'),
                        url(r'^findpersonnel/$' ,'myapp.views.findpersonnel',name='findpersonnel'),
@@ -40,7 +44,6 @@ urlpatterns = patterns('',
                        #####################################################sabte shift
                        url(r'^sabteshift/$', 'myapp.views.sabteshift',name='sabteshift'),
                        url(r'^savecost/$', 'myapp.views.savecost',name='savecost'),
-                       # url(r'^test/$', 'myapp.views.test',name='test'),
                        url(r'^showshift/$', 'myapp.views.showcost',name='showcost'),
                        url(r'^deletecost/([^/]+)/$', 'myapp.views.deletecost'),
                        url(r'^paycost/([^/]+)/$', 'myapp.views.paycost'),
