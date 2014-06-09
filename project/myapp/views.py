@@ -396,37 +396,40 @@ def findpersonnel(request):
     else:
         return render(request,'user/login.html')
         ##############################################
+def showfindedshift(request):
+    if request.session["login"]=="true":
+        fn=request.POST.get('fn')
+        ln=request.POST.get('ln')
+
+        m=shift.objects.get(fn=fn,ln=ln)
+        sd=m.startdate
+        fn=m.fn
+        ln=m.ln
+        ed=m.enddate
+        n=shift.objects.filter()
+        return render(request,'user/admin pages/showfind.html',{'startdate':sd,'fn':fn,'ln':ln,'enddate':ed,})
+    else:
+        return render(request,'user/login.html')
+####################################################
+def findshift(request):
+    if request.session["login"]=="true":
+        return render(request,'user/admin pages/find shift.html')
+    else:
+        return render(request,'user/login.html')
+        ##############################
+
 def showfindedpersonnel(request):
     if request.session["login"]=="true":
         fn=request.POST.get('fn')
         ln=request.POST.get('ln')
         mc=request.POST.get('mc')
-        m=personnel.objects.get(mellicode=mc,fn=fn,ln=ln)
+        m=shift.objects.get(fn=fn,ln=ln)
         mc=m.mellicode
         fn=m.fn
         ln=m.ln
-        pelak=m.pelak
+        personnelcode=m.personnelcode
         n=shift.objects.filter()
-        return render(request,'user/admin pages/showfind.html',{'p':n,'mc':mc,'fn':fn,'ln':ln,'pelak':pelak,})
-    else:
-        return render(request,'user/login.html')
-####################################################
-def findvahed(request):
-    if request.session["login"]=="true":
-        return render(request,'user/admin pages/find vahed.html')
-    else:
-        return render(request,'user/login.html')
-        ##############################
-
-def showfindedvahed(request):
-    if request.session["login"]=="true":
-        pelak=request.POST.get('pelak')
-        m=personnel.objects.get(pelak=pelak)
-        pelak=m.pelak
-        metraj=m.metraj
-        telephon=m.telephon
-        parking = m.parking
-        return render(request,'user/admin pages/show finded vahed.html',{'pelak':pelak,'metraj':metraj,'telephon':telephon,'parking':parking})
+        return render(request,'user/admin pages/show finded shift.html',{'mc':mc,'fn':fn,'ln':ln,'personnelcode':personnelcode,})
     else:
         return render(request,'user/login.html')
 ############################################

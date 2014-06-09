@@ -1,3 +1,4 @@
+
 {% extends "layouts/baseadmin.html" %}
 
 {% block page_title %}{% endblock %}
@@ -14,7 +15,7 @@
 
               <div class="widget wred">
                 <div class="widget-head">
-                  <div class="pull-left">جستجو</div>
+                  <div class="pull-left">جستحو</div>
                   <div class="widget-icons pull-right">
                     <a href="#" class="wminimize"><i class="icon-chevron-up"></i></a>
                     <a href="#" class="wclose"><i class="icon-remove"></i></a>
@@ -27,25 +28,33 @@
 
                     <!-- Profile form -->
 
-                                    <div class="form profile" >
+                                    <div class="form profile">
                                       <!-- Edit profile form (not working)-->
-                                      <form class="form-horizontal"action="/showfindedvahed/" method="post">
+                                      <form class="form-horizontal" action="/showfindedshift/" method="post">
                                           {% csrf_token %}
                                           <div class="form-group">
-                                            <label class="control-label col-lg-3" for="pelak">پلاک</label>
+                                            <label class="control-label col-lg-3" for="fn">نام</label>
                                             <div class="col-lg-6">
-                                              <input type="text" class="form-control" id="pelak">
+                                              <input type="text" class="form-control" value="{{ personnel.fn }}" name="fn" id="fn">
+                                            </div>
+                                          </div>
+                                          <!-- Email -->
+                                          <div class="form-group">
+                                            <label class="control-label col-lg-3" for="ln">نام خوانوادگی</label>
+                                            <div class="col-lg-6">
+                                              <input type="text" class="form-control" value="{{ personnel.ln }}"name="ln" id="ln">
                                             </div>
                                           </div>
 
 
+     
 
                                           <!-- Buttons -->
                                           <div class="form-group">
                                              <!-- Buttons -->
 											 <div class="col-lg-6 col-lg-offset-1">
-												<button type="submit" class="btn btn-success">جستجو</button>
-												<button type="reset" class="btn btn-default">پاک کردن فرم</button>
+												<input type="submit" value="find" class="btn btn-danger" >
+
 											</div>
                                           </div>
                                       </form>

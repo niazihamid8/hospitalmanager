@@ -31,33 +31,29 @@
                 <tbody class="">
                 <tr>
                      <th>
-پلاک
+نام
                     </th>
                      <th>
-متراژ
+نام خوانوادگی
                     </th>
                      <th>
-تلفن
+تاریخ شروع
                     </th>
                      <th>
-پارکینگ
+تاریخ پایان
                     </th>
 
-                <th>other</th>
-                <th>other</th>
 
 
                         <tr>
-                            <td>{{ pelak }}</td>
-                            <td>{{ metraj }}</td>
-                            <td>{{ telephon }}</td>
-                            <td>{{parking }}</td>
+                            <td>{{ fn }}</td>
+                            <td>{{ ln }}</td>
+                            <td>{{ satrtdate }}</td>
+                            <td>{{enddate }}</td>
 
-                            <td> <a href= "{% url 'myapp.views.deletevahed' s.pelak %}" class="btn btn-default"> پاک کردن</a>  </td>
-                            <td> <a  href= "{% url 'myapp.views.editvahed' s.pelak %}"class="btn btn-default"> ویرایش</a>  </td>
 
                         </tr>
-                    {% endfor %}
+                  
 
                 </tr>
             </tbody>

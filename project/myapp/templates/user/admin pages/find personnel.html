@@ -1,3 +1,4 @@
+
 {% extends "layouts/baseadmin.html" %}
 
 {% block page_title %}{% endblock %}
@@ -29,31 +30,24 @@
 
                                     <div class="form profile">
                                       <!-- Edit profile form (not working)-->
-                                      <form class="form-horizontal" action="/showfindedmalek/" method="post">
+                                      <form class="form-horizontal" action="/showfindedpersonnel/" method="post">
                                           {% csrf_token %}
                                           <div class="form-group">
                                             <label class="control-label col-lg-3" for="fn">نام</label>
                                             <div class="col-lg-6">
-                                              <input type="text" class="form-control" value="{{ Malek.fn }}" name="fn" id="fn">
+                                              <input type="text" class="form-control" value="{{ personnel.fn }}" name="fn" id="fn">
                                             </div>
                                           </div>
                                           <!-- Email -->
                                           <div class="form-group">
                                             <label class="control-label col-lg-3" for="ln">نام خوانوادگی</label>
                                             <div class="col-lg-6">
-                                              <input type="text" class="form-control" value="{{ Malek.ln }}"name="ln" id="ln">
+                                              <input type="text" class="form-control" value="{{ personnel.ln }}"name="ln" id="ln">
                                             </div>
                                           </div>
 
 
-                                          <!-- Username -->
-                                          <div class="form-group">
-                                            <label class="control-label col-lg-3" for="mc">کد ملی</label>
-                                            <div class="col-lg-6">
-                                              <input type="text" class="form-control" value="{{ Malek.mellicode }}"name="mc" id="mc">
-                                            </div>
-                                          </div>
-
+     
 
                                           <!-- Buttons -->
                                           <div class="form-group">
